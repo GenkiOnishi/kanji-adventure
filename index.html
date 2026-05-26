@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>Kanji Adventure</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- ═══ LOADING SCREEN ═══ -->
+<div id="screen-loading" class="screen active loading-screen">
+  <div class="loading-content">
+    <div class="loading-flower">🌸</div>
+    <h1 class="loading-title">Kanji Adventure</h1>
+    <div class="loading-spinner"></div>
+    <p id="loading-message" class="loading-message">Loading data...</p>
+  </div>
+</div>
+
+<!-- ═══ ERROR SCREEN ═══ -->
+<div id="screen-error" class="screen error-screen">
+  <div class="error-content">
+    <div class="error-icon">⚠️</div>
+    <h2 class="error-title">Oops! Something went wrong.</h2>
+    <p id="error-message" class="error-message">Please refresh the page to try again.</p>
+    <button onclick="location.reload()" class="btn-primary">↻ Refresh</button>
+  </div>
+</div>
+
+<!-- ═══ HOME SCREEN ═══ -->
+<div id="screen-home" class="screen">
+  <header class="nav">
+    <h1 class="logo">🌸 Kanji Adventure</h1>
+    <div class="nav-right">
+      <div class="grade-tabs">
+        <button class="grade-tab active" data-grade="1">Grade 1</button>
+        <button class="grade-tab" data-grade="2">Grade 2</button>
+      </div>
+      <button id="btn-drills" class="btn-drills">🎯 Start Drills</button>
+    </div>
+  </header>
+
+  <div class="progress-wrap">
+    <div class="progress-bar"><div id="progress-fill" class="progress-fill"></div></div>
+    <span id="progress-text" class="progress-text">0 / 80 kanji learned</span>
+  </div>
+
+  <div class="theme-section">
+    <span class="theme-label">THEME</span>
+    <div id="theme-tabs" class="theme-tabs"></div>
+  </div>
+
+  <div id="kanji-grid" class="kanji-grid"></div>
+
+  <div class="legend">
+    <span class="legend-mark">✓</span>
+    <span class="legend-text">= Drill completed</span>
+  </div>
+</div>
+
+<!-- ═══ DETAIL SCREEN ═══ -->
+<div id="screen-detail" class="screen">
+  <header class="nav nav-detail">
+    <button class="btn-back" data-target="home">← Back</button>
+    <div class="detail-nav">
+      <button class="arrow-btn" id="prev-kanji">◀</button>
+      <span id="detail-nav-kanji" class="detail-nav-kanji">山</span>
+      <button class="arrow-btn" id="next-kanji">▶</button>
+    </div>
+  </header>
+
+  <div class="detail-body">
+    <div class="detail-left">
+      <div class="stroke-panel">
+        <div class="stroke-header">
+          <span>▶ Stroke Animation</span>
+        </div>
+        <div id="stroke-svg-container" class="stroke-svg-container"></div>
+        <div class="stroke-controls">
+          <button id="btn-animate" class="btn-animate">▶ Animate</button>
+          <button id="btn-replay" class="btn-replay">↺ Replay</button>
+        </div>
+      </div>
+
+      <div class="draw-panel">
+        <div class="draw-header">
+          <span>✏️ Write it here!</span>
+          <button id="btn-clear-detail" class="btn-clear">Clear</button>
+        </div>
+        <canvas id="detail-canvas" width="500" height="280"></canvas>
+        <div id="detail-ocr-result" class="ocr-result"></div>
+      </div>
+    </div>
+
+    <div class="detail-right">
+      <div class="meaning-block">
+        <h2 id="detail-meaning" class="meaning">mountain</h2>
+        <p class="meaning-sub">most common meaning</p>
+        <button id="btn-speak" class="btn-speak" aria-label="Read aloud">🔊 Read aloud</button>
+      </div>
+
+      <div class="info-grid">
+        <div class="info-card"><span class="info-label">On-yomi (音読み)</span><span id="detail-on" class="info-value">サン (SAN)</span></div>
+        <div class="info-card"><span class="info-label">Kun-yomi (訓読み)</span><span id="detail-kun" class="info-value">やま (yama)</span></div>
+        <div class="info-card"><span class="info-label">Strokes (画数)</span><span id="detail-strokes" class="info-value">3 strokes</span></div>
+        <div class="info-card"><span class="info-label">Grade</span><span id="detail-grade" class="info-value">Grade 1</span></div>
+      </div>
+
+      <div class="howto-header">HOW TO USE</div>
+      <div class="example-card">
+        <div class="ex-row">
+          <p id="detail-ex1-jp" class="ex-jp">あの山はとても高い。</p>
+          <button class="btn-speak-mini" data-target="ex1" aria-label="Read aloud">🔊</button>
+        </div>
+        <p id="detail-ex1-en" class="ex-en">That mountain is very tall.</p>
+      </div>
+      <div class="example-card">
+        <div class="ex-row">
+          <p id="detail-ex2-jp" class="ex-jp">山田さんは山に登った。</p>
+          <button class="btn-speak-mini" data-target="ex2" aria-label="Read aloud">🔊</button>
+        </div>
+        <p id="detail-ex2-en" class="ex-en">Mr. Yamada climbed the mountain.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ═══ DRILL SELECT SCREEN ═══ -->
+<div id="screen-drill-select" class="screen">
+  <header class="nav">
+    <button class="btn-back" data-target="home">← Home</button>
+    <h1 class="logo" style="font-size:16px;">🌸 Kanji Adventure — Drills</h1>
+    <div style="width:80px;"></div>
+  </header>
+
+  <div class="drill-select-body">
+    <div class="drill-types">
+      <div class="drill-type-label">CHOOSE DRILL TYPE</div>
+      <div class="drill-type-card" data-type="読み">
+        <div class="drill-type-color" style="background:var(--accent);"></div>
+        <div class="drill-type-icon">📖</div>
+        <div class="drill-type-text">
+          <h3>Reading Drill</h3>
+          <p class="drill-type-jp">読み</p>
+          <p class="drill-type-desc">See the kanji word → write the reading in hiragana</p>
+        </div>
+      </div>
+      <div class="drill-type-card" data-type="書き">
+        <div class="drill-type-color" style="background:var(--purple);"></div>
+        <div class="drill-type-icon">✏️</div>
+        <div class="drill-type-text">
+          <h3>Writing Drill</h3>
+          <p class="drill-type-jp">書き</p>
+          <p class="drill-type-desc">See the word in katakana → write the kanji</p>
+        </div>
+      </div>
+      <div class="drill-type-card" data-type="応用">
+        <div class="drill-type-color" style="background:var(--mint);"></div>
+        <div class="drill-type-icon">🎯</div>
+        <div class="drill-type-text">
+          <h3>Application Drill</h3>
+          <p class="drill-type-jp">応用</p>
+          <p class="drill-type-desc">Match kanji ↔ English meaning (4 choices)</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="drill-courses">
+      <h2 id="drill-courses-title" class="drill-courses-title">Reading Drill — Grade 1 Courses</h2>
+      <p class="drill-courses-sub">Select a theme to practice (10 questions each)</p>
+      <div id="drill-courses-grid" class="drill-courses-grid"></div>
+    </div>
+  </div>
+</div>
+
+<!-- ═══ DRILL QUESTION SCREEN ═══ -->
+<div id="screen-drill-question" class="screen">
+  <header class="nav" id="drill-q-nav">
+    <button class="btn-back" id="drill-q-exit">← Exit</button>
+    <h1 class="logo" id="drill-q-title" style="font-size:14px;">Reading Drill — Nature Q1/10</h1>
+    <div style="width:80px;"></div>
+  </header>
+  <div class="drill-progress-bar"><div id="drill-progress-fill"></div></div>
+  <div id="drill-q-body" class="drill-q-body"></div>
+</div>
+
+<!-- ═══ DRILL RESULT SCREEN ═══ -->
+<div id="screen-drill-result" class="screen">
+  <div class="result-petals" id="result-petals"></div>
+  <div class="result-card">
+    <div id="result-stamp" class="result-stamp">
+      <div class="stamp-line1">たいへん</div>
+      <div class="stamp-line2">よくできました</div>
+      <div class="stamp-flower">🌸</div>
+    </div>
+    <h2 id="result-title" class="result-title">Reading Drill — Nature Complete!</h2>
+    <div id="result-score" class="result-score">10 / 10</div>
+    <p class="result-subtext">questions correct 🎉</p>
+    <div class="result-buttons">
+      <button id="result-retry" class="btn-secondary">↩ Try Again</button>
+      <button id="result-next" class="btn-primary">Next Course →</button>
+    </div>
+  </div>
+</div>
+
+<script src="lib/kanji-canvas.min.js"></script>
+<script src="lib/combined-patterns.js"></script>
+<script src="config.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

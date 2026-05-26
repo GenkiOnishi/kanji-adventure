@@ -1,0 +1,5928 @@
+{
+ "読み": {
+  "G1_Numbers": [
+   {
+    "format": "word",
+    "kanji": "一",
+    "display": "一",
+    "hint_en": "the number 1",
+    "correct_hiragana": "いち",
+    "meaning": "one"
+   },
+   {
+    "format": "word",
+    "kanji": "二",
+    "display": "二",
+    "hint_en": "the number 2",
+    "correct_hiragana": "に",
+    "meaning": "two"
+   },
+   {
+    "format": "word",
+    "kanji": "三",
+    "display": "三",
+    "hint_en": "the number 3",
+    "correct_hiragana": "さん",
+    "meaning": "three"
+   },
+   {
+    "format": "word",
+    "kanji": "四",
+    "display": "四",
+    "hint_en": "the number 4",
+    "correct_hiragana": "し",
+    "meaning": "four"
+   },
+   {
+    "format": "word",
+    "kanji": "五",
+    "display": "五",
+    "hint_en": "the number 5",
+    "correct_hiragana": "ご",
+    "meaning": "five"
+   },
+   {
+    "format": "sentence",
+    "kanji": "一",
+    "sentence_jp": "一日は二十四時間です。",
+    "sentence_en": "A day has 24 hours.",
+    "hint_en": "how do you read 一?",
+    "correct_hiragana": "いち",
+    "meaning": "one"
+   },
+   {
+    "format": "sentence",
+    "kanji": "二",
+    "sentence_jp": "妹は二さいです。",
+    "sentence_en": "My little sister is 2 years old.",
+    "hint_en": "how do you read 二?",
+    "correct_hiragana": "に",
+    "meaning": "two"
+   },
+   {
+    "format": "sentence",
+    "kanji": "三",
+    "sentence_jp": "三びきの子ぶた。",
+    "sentence_en": "Three little pigs.",
+    "hint_en": "how do you read 三?",
+    "correct_hiragana": "さん",
+    "meaning": "three"
+   },
+   {
+    "format": "sentence",
+    "kanji": "四",
+    "sentence_jp": "四月に学校がはじまる。",
+    "sentence_en": "School starts in April.",
+    "hint_en": "how do you read 四?",
+    "correct_hiragana": "し",
+    "meaning": "four"
+   },
+   {
+    "format": "sentence",
+    "kanji": "五",
+    "sentence_jp": "五人で公園へ行った。",
+    "sentence_en": "Five of us went to the park.",
+    "hint_en": "how do you read 五?",
+    "correct_hiragana": "ご",
+    "meaning": "five"
+   }
+  ],
+  "G1_Nature": [
+   {
+    "format": "word",
+    "kanji": "山",
+    "display": "山",
+    "hint_en": "a tall landform",
+    "correct_hiragana": "やま",
+    "meaning": "mountain"
+   },
+   {
+    "format": "word",
+    "kanji": "川",
+    "display": "川",
+    "hint_en": "water flows here",
+    "correct_hiragana": "かわ",
+    "meaning": "river"
+   },
+   {
+    "format": "word",
+    "kanji": "田",
+    "display": "田んぼ",
+    "hint_en": "where rice grows",
+    "correct_hiragana": "たんぼ",
+    "meaning": "rice paddy"
+   },
+   {
+    "format": "word",
+    "kanji": "木",
+    "display": "木",
+    "hint_en": "gives us shade",
+    "correct_hiragana": "き",
+    "meaning": "tree / wood"
+   },
+   {
+    "format": "word",
+    "kanji": "火",
+    "display": "火",
+    "hint_en": "hot and bright",
+    "correct_hiragana": "ひ",
+    "meaning": "fire"
+   },
+   {
+    "format": "sentence",
+    "kanji": "山",
+    "sentence_jp": "あの山はとても高い。",
+    "sentence_en": "That mountain is very tall.",
+    "hint_en": "how do you read 山?",
+    "correct_hiragana": "やま",
+    "meaning": "mountain"
+   },
+   {
+    "format": "sentence",
+    "kanji": "川",
+    "sentence_jp": "川で魚をつかまえた。",
+    "sentence_en": "I caught fish in the river.",
+    "hint_en": "how do you read 川?",
+    "correct_hiragana": "かわ",
+    "meaning": "river"
+   },
+   {
+    "format": "sentence",
+    "kanji": "田",
+    "sentence_jp": "田んぼでお米を作る。",
+    "sentence_en": "Rice is grown in the paddy.",
+    "hint_en": "how do you read 田?",
+    "correct_hiragana": "たんぼ",
+    "meaning": "rice paddy"
+   },
+   {
+    "format": "sentence",
+    "kanji": "木",
+    "sentence_jp": "大きな木の下で休む。",
+    "sentence_en": "Resting under a big tree.",
+    "hint_en": "how do you read 木?",
+    "correct_hiragana": "き",
+    "meaning": "tree / wood"
+   },
+   {
+    "format": "sentence",
+    "kanji": "火",
+    "sentence_jp": "キャンプで火をつける。",
+    "sentence_en": "Lighting a fire at camp.",
+    "hint_en": "how do you read 火?",
+    "correct_hiragana": "ひ",
+    "meaning": "fire"
+   }
+  ],
+  "G1_Animals": [
+   {
+    "format": "word",
+    "kanji": "虫",
+    "display": "虫",
+    "hint_en": "bugs and insects",
+    "correct_hiragana": "むし",
+    "meaning": "insect"
+   },
+   {
+    "format": "word",
+    "kanji": "犬",
+    "display": "犬",
+    "hint_en": "a furry pet that barks",
+    "correct_hiragana": "いぬ",
+    "meaning": "dog"
+   },
+   {
+    "format": "word",
+    "kanji": "貝",
+    "display": "貝",
+    "hint_en": "found on the beach",
+    "correct_hiragana": "かい",
+    "meaning": "shell"
+   },
+   {
+    "format": "word",
+    "kanji": "虫",
+    "display": "虫",
+    "hint_en": "bugs and insects",
+    "correct_hiragana": "むし",
+    "meaning": "insect"
+   },
+   {
+    "format": "word",
+    "kanji": "犬",
+    "display": "犬",
+    "hint_en": "a furry pet that barks",
+    "correct_hiragana": "いぬ",
+    "meaning": "dog"
+   },
+   {
+    "format": "sentence",
+    "kanji": "虫",
+    "sentence_jp": "虫めがねではっぱを見る。",
+    "sentence_en": "Looking at a leaf with a magnifying glass.",
+    "hint_en": "how do you read 虫?",
+    "correct_hiragana": "むし",
+    "meaning": "insect"
+   },
+   {
+    "format": "sentence",
+    "kanji": "犬",
+    "sentence_jp": "犬がしっぽをふっている。",
+    "sentence_en": "The dog is wagging its tail.",
+    "hint_en": "how do you read 犬?",
+    "correct_hiragana": "いぬ",
+    "meaning": "dog"
+   },
+   {
+    "format": "sentence",
+    "kanji": "貝",
+    "sentence_jp": "貝がらをひろう。",
+    "sentence_en": "Picking up seashells.",
+    "hint_en": "how do you read 貝?",
+    "correct_hiragana": "かい",
+    "meaning": "shell"
+   },
+   {
+    "format": "sentence",
+    "kanji": "虫",
+    "sentence_jp": "虫めがねではっぱを見る。",
+    "sentence_en": "Looking at a leaf with a magnifying glass.",
+    "hint_en": "how do you read 虫?",
+    "correct_hiragana": "むし",
+    "meaning": "insect"
+   },
+   {
+    "format": "sentence",
+    "kanji": "犬",
+    "sentence_jp": "犬がしっぽをふっている。",
+    "sentence_en": "The dog is wagging its tail.",
+    "hint_en": "how do you read 犬?",
+    "correct_hiragana": "いぬ",
+    "meaning": "dog"
+   }
+  ],
+  "G1_Body": [
+   {
+    "format": "word",
+    "kanji": "手",
+    "display": "手",
+    "hint_en": "we write with this",
+    "correct_hiragana": "て",
+    "meaning": "hand"
+   },
+   {
+    "format": "word",
+    "kanji": "足",
+    "display": "足",
+    "hint_en": "we walk with these",
+    "correct_hiragana": "あし",
+    "meaning": "foot / leg"
+   },
+   {
+    "format": "word",
+    "kanji": "目",
+    "display": "目",
+    "hint_en": "we see with these",
+    "correct_hiragana": "め",
+    "meaning": "eye"
+   },
+   {
+    "format": "word",
+    "kanji": "口",
+    "display": "口",
+    "hint_en": "we eat and talk with this",
+    "correct_hiragana": "くち",
+    "meaning": "mouth"
+   },
+   {
+    "format": "word",
+    "kanji": "耳",
+    "display": "耳",
+    "hint_en": "we hear with these",
+    "correct_hiragana": "みみ",
+    "meaning": "ear"
+   },
+   {
+    "format": "sentence",
+    "kanji": "手",
+    "sentence_jp": "きれいな手をしている。",
+    "sentence_en": "He has clean hands.",
+    "hint_en": "how do you read 手?",
+    "correct_hiragana": "て",
+    "meaning": "hand"
+   },
+   {
+    "format": "sentence",
+    "kanji": "足",
+    "sentence_jp": "足がいたくなった。",
+    "sentence_en": "My leg started to hurt.",
+    "hint_en": "how do you read 足?",
+    "correct_hiragana": "あし",
+    "meaning": "foot / leg"
+   },
+   {
+    "format": "sentence",
+    "kanji": "目",
+    "sentence_jp": "目を大きくあける。",
+    "sentence_en": "Open your eyes wide.",
+    "hint_en": "how do you read 目?",
+    "correct_hiragana": "め",
+    "meaning": "eye"
+   },
+   {
+    "format": "sentence",
+    "kanji": "口",
+    "sentence_jp": "口を大きくあけて歌う。",
+    "sentence_en": "Sing with mouth wide open.",
+    "hint_en": "how do you read 口?",
+    "correct_hiragana": "くち",
+    "meaning": "mouth"
+   },
+   {
+    "format": "sentence",
+    "kanji": "耳",
+    "sentence_jp": "耳がよく聞こえる。",
+    "sentence_en": "My ears can hear well.",
+    "hint_en": "how do you read 耳?",
+    "correct_hiragana": "みみ",
+    "meaning": "ear"
+   }
+  ],
+  "G1_People": [
+   {
+    "format": "word",
+    "kanji": "男",
+    "display": "男",
+    "hint_en": "a boy or man",
+    "correct_hiragana": "おとこ",
+    "meaning": "man / boy"
+   },
+   {
+    "format": "word",
+    "kanji": "女",
+    "display": "女",
+    "hint_en": "a girl or woman",
+    "correct_hiragana": "おんな",
+    "meaning": "woman / girl"
+   },
+   {
+    "format": "word",
+    "kanji": "子",
+    "display": "子ども",
+    "hint_en": "young people",
+    "correct_hiragana": "こども",
+    "meaning": "child"
+   },
+   {
+    "format": "word",
+    "kanji": "人",
+    "display": "人",
+    "hint_en": "a person",
+    "correct_hiragana": "ひと",
+    "meaning": "person"
+   },
+   {
+    "format": "word",
+    "kanji": "王",
+    "display": "王さま",
+    "hint_en": "the king",
+    "correct_hiragana": "おうさま",
+    "meaning": "king"
+   },
+   {
+    "format": "sentence",
+    "kanji": "男",
+    "sentence_jp": "男の子が三人いる。",
+    "sentence_en": "There are three boys.",
+    "hint_en": "how do you read 男?",
+    "correct_hiragana": "おとこ",
+    "meaning": "man / boy"
+   },
+   {
+    "format": "sentence",
+    "kanji": "女",
+    "sentence_jp": "女の人にあいさつする。",
+    "sentence_en": "Greet the woman.",
+    "hint_en": "how do you read 女?",
+    "correct_hiragana": "おんな",
+    "meaning": "woman / girl"
+   },
+   {
+    "format": "sentence",
+    "kanji": "子",
+    "sentence_jp": "子ねこがあそんでいる。",
+    "sentence_en": "The kitten is playing.",
+    "hint_en": "how do you read 子?",
+    "correct_hiragana": "こども",
+    "meaning": "child"
+   },
+   {
+    "format": "sentence",
+    "kanji": "人",
+    "sentence_jp": "いい人にあえた。",
+    "sentence_en": "I met a nice person.",
+    "hint_en": "how do you read 人?",
+    "correct_hiragana": "ひと",
+    "meaning": "person"
+   },
+   {
+    "format": "sentence",
+    "kanji": "王",
+    "sentence_jp": "王さまがしろにすむ。",
+    "sentence_en": "The king lives in a castle.",
+    "hint_en": "how do you read 王?",
+    "correct_hiragana": "おうさま",
+    "meaning": "king"
+   }
+  ],
+  "G1_School": [
+   {
+    "format": "word",
+    "kanji": "学",
+    "display": "学校",
+    "hint_en": "where we study",
+    "correct_hiragana": "がっこう",
+    "meaning": "study / learning"
+   },
+   {
+    "format": "word",
+    "kanji": "校",
+    "display": "学校",
+    "hint_en": "where we study",
+    "correct_hiragana": "がっこう",
+    "meaning": "school"
+   },
+   {
+    "format": "word",
+    "kanji": "先",
+    "display": "先生",
+    "hint_en": "your teacher",
+    "correct_hiragana": "せんせい",
+    "meaning": "ahead / before"
+   },
+   {
+    "format": "word",
+    "kanji": "生",
+    "display": "先生",
+    "hint_en": "your teacher",
+    "correct_hiragana": "せんせい",
+    "meaning": "life / student"
+   },
+   {
+    "format": "word",
+    "kanji": "本",
+    "display": "本",
+    "hint_en": "we read this",
+    "correct_hiragana": "ほん",
+    "meaning": "book / origin"
+   },
+   {
+    "format": "sentence",
+    "kanji": "学",
+    "sentence_jp": "毎日学校で学ぶ。",
+    "sentence_en": "I learn at school every day.",
+    "hint_en": "how do you read 学?",
+    "correct_hiragana": "がっこう",
+    "meaning": "study / learning"
+   },
+   {
+    "format": "sentence",
+    "kanji": "校",
+    "sentence_jp": "新しい学校に通う。",
+    "sentence_en": "Attending a new school.",
+    "hint_en": "how do you read 校?",
+    "correct_hiragana": "がっこう",
+    "meaning": "school"
+   },
+   {
+    "format": "sentence",
+    "kanji": "先",
+    "sentence_jp": "先生がやさしい。",
+    "sentence_en": "The teacher is kind.",
+    "hint_en": "how do you read 先?",
+    "correct_hiragana": "せんせい",
+    "meaning": "ahead / before"
+   },
+   {
+    "format": "sentence",
+    "kanji": "生",
+    "sentence_jp": "生まれた日はたん生日。",
+    "sentence_en": "The day you were born is your birthday.",
+    "hint_en": "how do you read 生?",
+    "correct_hiragana": "せんせい",
+    "meaning": "life / student"
+   },
+   {
+    "format": "sentence",
+    "kanji": "本",
+    "sentence_jp": "図書かんで本をかりた。",
+    "sentence_en": "I borrowed a book at the library.",
+    "hint_en": "how do you read 本?",
+    "correct_hiragana": "ほん",
+    "meaning": "book / origin"
+   }
+  ],
+  "G1_Town": [
+   {
+    "format": "word",
+    "kanji": "村",
+    "display": "村",
+    "hint_en": "a small community",
+    "correct_hiragana": "むら",
+    "meaning": "village"
+   },
+   {
+    "format": "word",
+    "kanji": "町",
+    "display": "町",
+    "hint_en": "bigger than a village",
+    "correct_hiragana": "まち",
+    "meaning": "town"
+   },
+   {
+    "format": "word",
+    "kanji": "車",
+    "display": "車",
+    "hint_en": "it has four wheels",
+    "correct_hiragana": "くるま",
+    "meaning": "car / vehicle"
+   },
+   {
+    "format": "word",
+    "kanji": "村",
+    "display": "村",
+    "hint_en": "a small community",
+    "correct_hiragana": "むら",
+    "meaning": "village"
+   },
+   {
+    "format": "word",
+    "kanji": "町",
+    "display": "町",
+    "hint_en": "bigger than a village",
+    "correct_hiragana": "まち",
+    "meaning": "town"
+   },
+   {
+    "format": "sentence",
+    "kanji": "村",
+    "sentence_jp": "村の人にあいさつした。",
+    "sentence_en": "I greeted the villagers.",
+    "hint_en": "how do you read 村?",
+    "correct_hiragana": "むら",
+    "meaning": "village"
+   },
+   {
+    "format": "sentence",
+    "kanji": "町",
+    "sentence_jp": "町の中をさんぽする。",
+    "sentence_en": "Taking a walk in town.",
+    "hint_en": "how do you read 町?",
+    "correct_hiragana": "まち",
+    "meaning": "town"
+   },
+   {
+    "format": "sentence",
+    "kanji": "車",
+    "sentence_jp": "お父さんの車にのる。",
+    "sentence_en": "Getting in my dad's car.",
+    "hint_en": "how do you read 車?",
+    "correct_hiragana": "くるま",
+    "meaning": "car / vehicle"
+   },
+   {
+    "format": "sentence",
+    "kanji": "村",
+    "sentence_jp": "村の人にあいさつした。",
+    "sentence_en": "I greeted the villagers.",
+    "hint_en": "how do you read 村?",
+    "correct_hiragana": "むら",
+    "meaning": "village"
+   },
+   {
+    "format": "sentence",
+    "kanji": "町",
+    "sentence_jp": "町の中をさんぽする。",
+    "sentence_en": "Taking a walk in town.",
+    "hint_en": "how do you read 町?",
+    "correct_hiragana": "まち",
+    "meaning": "town"
+   }
+  ],
+  "G1_Time": [
+   {
+    "format": "word",
+    "kanji": "日",
+    "display": "日",
+    "hint_en": "the sun",
+    "correct_hiragana": "ひ",
+    "meaning": "day / sun"
+   },
+   {
+    "format": "word",
+    "kanji": "月",
+    "display": "月",
+    "hint_en": "shines at night",
+    "correct_hiragana": "つき",
+    "meaning": "moon / month"
+   },
+   {
+    "format": "word",
+    "kanji": "年",
+    "display": "今年",
+    "hint_en": "this year",
+    "correct_hiragana": "ことし",
+    "meaning": "year"
+   },
+   {
+    "format": "word",
+    "kanji": "金",
+    "display": "金よう日",
+    "hint_en": "Friday",
+    "correct_hiragana": "きんようび",
+    "meaning": "gold / money / Friday"
+   },
+   {
+    "format": "word",
+    "kanji": "日",
+    "display": "日",
+    "hint_en": "the sun",
+    "correct_hiragana": "ひ",
+    "meaning": "day / sun"
+   },
+   {
+    "format": "sentence",
+    "kanji": "日",
+    "sentence_jp": "日よう日は休みだ。",
+    "sentence_en": "Sunday is a holiday.",
+    "hint_en": "how do you read 日?",
+    "correct_hiragana": "ひ",
+    "meaning": "day / sun"
+   },
+   {
+    "format": "sentence",
+    "kanji": "月",
+    "sentence_jp": "月よう日に図書かんへ行く。",
+    "sentence_en": "Going to the library on Monday.",
+    "hint_en": "how do you read 月?",
+    "correct_hiragana": "つき",
+    "meaning": "moon / month"
+   },
+   {
+    "format": "sentence",
+    "kanji": "年",
+    "sentence_jp": "来年は二年生だ。",
+    "sentence_en": "Next year I will be in second grade.",
+    "hint_en": "how do you read 年?",
+    "correct_hiragana": "ことし",
+    "meaning": "year"
+   },
+   {
+    "format": "sentence",
+    "kanji": "金",
+    "sentence_jp": "金よう日にえ画を見る。",
+    "sentence_en": "Watching a movie on Friday.",
+    "hint_en": "how do you read 金?",
+    "correct_hiragana": "きんようび",
+    "meaning": "gold / money / Friday"
+   },
+   {
+    "format": "sentence",
+    "kanji": "日",
+    "sentence_jp": "日よう日は休みだ。",
+    "sentence_en": "Sunday is a holiday.",
+    "hint_en": "how do you read 日?",
+    "correct_hiragana": "ひ",
+    "meaning": "day / sun"
+   }
+  ],
+  "G1_Colors": [
+   {
+    "format": "word",
+    "kanji": "白",
+    "display": "白い",
+    "hint_en": "the color of snow",
+    "correct_hiragana": "しろい",
+    "meaning": "white"
+   },
+   {
+    "format": "word",
+    "kanji": "赤",
+    "display": "赤い",
+    "hint_en": "the color of fire",
+    "correct_hiragana": "あかい",
+    "meaning": "red"
+   },
+   {
+    "format": "word",
+    "kanji": "青",
+    "display": "青い",
+    "hint_en": "the color of the sky",
+    "correct_hiragana": "あおい",
+    "meaning": "blue"
+   },
+   {
+    "format": "word",
+    "kanji": "糸",
+    "display": "糸",
+    "hint_en": "used for sewing",
+    "correct_hiragana": "いと",
+    "meaning": "thread"
+   },
+   {
+    "format": "word",
+    "kanji": "白",
+    "display": "白い",
+    "hint_en": "the color of snow",
+    "correct_hiragana": "しろい",
+    "meaning": "white"
+   },
+   {
+    "format": "sentence",
+    "kanji": "白",
+    "sentence_jp": "白い雲がうかぶ。",
+    "sentence_en": "White clouds are floating.",
+    "hint_en": "how do you read 白?",
+    "correct_hiragana": "しろい",
+    "meaning": "white"
+   },
+   {
+    "format": "sentence",
+    "kanji": "赤",
+    "sentence_jp": "赤い花がさく。",
+    "sentence_en": "Red flowers bloom.",
+    "hint_en": "how do you read 赤?",
+    "correct_hiragana": "あかい",
+    "meaning": "red"
+   },
+   {
+    "format": "sentence",
+    "kanji": "青",
+    "sentence_jp": "青いそらが広がる。",
+    "sentence_en": "The blue sky stretches out.",
+    "hint_en": "how do you read 青?",
+    "correct_hiragana": "あおい",
+    "meaning": "blue"
+   },
+   {
+    "format": "sentence",
+    "kanji": "糸",
+    "sentence_jp": "赤い糸でぬう。",
+    "sentence_en": "Sewing with red thread.",
+    "hint_en": "how do you read 糸?",
+    "correct_hiragana": "いと",
+    "meaning": "thread"
+   },
+   {
+    "format": "sentence",
+    "kanji": "白",
+    "sentence_jp": "白い雲がうかぶ。",
+    "sentence_en": "White clouds are floating.",
+    "hint_en": "how do you read 白?",
+    "correct_hiragana": "しろい",
+    "meaning": "white"
+   }
+  ],
+  "G1_Action": [
+   {
+    "format": "word",
+    "kanji": "出",
+    "display": "出る",
+    "hint_en": "going outside",
+    "correct_hiragana": "でる",
+    "meaning": "to go out"
+   },
+   {
+    "format": "word",
+    "kanji": "入",
+    "display": "入る",
+    "hint_en": "going inside",
+    "correct_hiragana": "はいる",
+    "meaning": "to enter"
+   },
+   {
+    "format": "word",
+    "kanji": "上",
+    "display": "上がる",
+    "hint_en": "moving upward",
+    "correct_hiragana": "あがる",
+    "meaning": "up / above"
+   },
+   {
+    "format": "word",
+    "kanji": "下",
+    "display": "下がる",
+    "hint_en": "moving downward",
+    "correct_hiragana": "さがる",
+    "meaning": "down / below"
+   },
+   {
+    "format": "word",
+    "kanji": "左",
+    "display": "左",
+    "hint_en": "opposite of right",
+    "correct_hiragana": "ひだり",
+    "meaning": "left"
+   },
+   {
+    "format": "sentence",
+    "kanji": "出",
+    "sentence_jp": "朝早く家を出る。",
+    "sentence_en": "Leaving home early in the morning.",
+    "hint_en": "how do you read 出?",
+    "correct_hiragana": "でる",
+    "meaning": "to go out"
+   },
+   {
+    "format": "sentence",
+    "kanji": "入",
+    "sentence_jp": "へやに入る。",
+    "sentence_en": "Entering the room.",
+    "hint_en": "how do you read 入?",
+    "correct_hiragana": "はいる",
+    "meaning": "to enter"
+   },
+   {
+    "format": "sentence",
+    "kanji": "上",
+    "sentence_jp": "つくえの上に本がある。",
+    "sentence_en": "There is a book on the desk.",
+    "hint_en": "how do you read 上?",
+    "correct_hiragana": "あがる",
+    "meaning": "up / above"
+   },
+   {
+    "format": "sentence",
+    "kanji": "下",
+    "sentence_jp": "いすの下にねこがいる。",
+    "sentence_en": "A cat is under the chair.",
+    "hint_en": "how do you read 下?",
+    "correct_hiragana": "さがる",
+    "meaning": "down / below"
+   },
+   {
+    "format": "sentence",
+    "kanji": "左",
+    "sentence_jp": "左にまがる。",
+    "sentence_en": "Turn left.",
+    "hint_en": "how do you read 左?",
+    "correct_hiragana": "ひだり",
+    "meaning": "left"
+   }
+  ],
+  "G2_Numbers": [
+   {
+    "format": "word",
+    "kanji": "万",
+    "display": "一万",
+    "hint_en": "10000",
+    "correct_hiragana": "いちまん",
+    "meaning": "ten thousand"
+   },
+   {
+    "format": "word",
+    "kanji": "半",
+    "display": "半分",
+    "hint_en": "one half",
+    "correct_hiragana": "はんぶん",
+    "meaning": "half"
+   },
+   {
+    "format": "word",
+    "kanji": "多",
+    "display": "多い",
+    "hint_en": "lots of things",
+    "correct_hiragana": "おおい",
+    "meaning": "many"
+   },
+   {
+    "format": "word",
+    "kanji": "少",
+    "display": "少ない",
+    "hint_en": "not much",
+    "correct_hiragana": "すくない",
+    "meaning": "few"
+   },
+   {
+    "format": "word",
+    "kanji": "太",
+    "display": "太い",
+    "hint_en": "thick and wide",
+    "correct_hiragana": "ふとい",
+    "meaning": "thick / fat"
+   },
+   {
+    "format": "sentence",
+    "kanji": "万",
+    "sentence_jp": "一万円さつをもらった。",
+    "sentence_en": "I got a 10000 yen bill.",
+    "hint_en": "how do you read 万?",
+    "correct_hiragana": "いちまん",
+    "meaning": "ten thousand"
+   },
+   {
+    "format": "sentence",
+    "kanji": "半",
+    "sentence_jp": "リンゴを半分に切る。",
+    "sentence_en": "I cut the apple in half.",
+    "hint_en": "how do you read 半?",
+    "correct_hiragana": "はんぶん",
+    "meaning": "half"
+   },
+   {
+    "format": "sentence",
+    "kanji": "多",
+    "sentence_jp": "家に本が多くある。",
+    "sentence_en": "There are many books at home.",
+    "hint_en": "how do you read 多?",
+    "correct_hiragana": "おおい",
+    "meaning": "many"
+   },
+   {
+    "format": "sentence",
+    "kanji": "少",
+    "sentence_jp": "水が少なくなった。",
+    "sentence_en": "The water has become little.",
+    "hint_en": "how do you read 少?",
+    "correct_hiragana": "すくない",
+    "meaning": "few"
+   },
+   {
+    "format": "sentence",
+    "kanji": "太",
+    "sentence_jp": "太い線を引く。",
+    "sentence_en": "Drawing a thick line.",
+    "hint_en": "how do you read 太?",
+    "correct_hiragana": "ふとい",
+    "meaning": "thick / fat"
+   }
+  ],
+  "G2_Nature": [
+   {
+    "format": "word",
+    "kanji": "雲",
+    "display": "雲",
+    "hint_en": "fluffy and white in the sky",
+    "correct_hiragana": "くも",
+    "meaning": "cloud"
+   },
+   {
+    "format": "word",
+    "kanji": "岩",
+    "display": "岩",
+    "hint_en": "a big heavy rock",
+    "correct_hiragana": "いわ",
+    "meaning": "boulder"
+   },
+   {
+    "format": "word",
+    "kanji": "星",
+    "display": "星",
+    "hint_en": "twinkles at night",
+    "correct_hiragana": "ほし",
+    "meaning": "star"
+   },
+   {
+    "format": "word",
+    "kanji": "晴",
+    "display": "晴れ",
+    "hint_en": "sunny weather",
+    "correct_hiragana": "はれ",
+    "meaning": "sunny / clear"
+   },
+   {
+    "format": "word",
+    "kanji": "雪",
+    "display": "雪",
+    "hint_en": "white and cold from the sky",
+    "correct_hiragana": "ゆき",
+    "meaning": "snow"
+   },
+   {
+    "format": "sentence",
+    "kanji": "雲",
+    "sentence_jp": "空に雲がうかぶ。",
+    "sentence_en": "Clouds are floating in the sky.",
+    "hint_en": "how do you read 雲?",
+    "correct_hiragana": "くも",
+    "meaning": "cloud"
+   },
+   {
+    "format": "sentence",
+    "kanji": "岩",
+    "sentence_jp": "海の岩にすわる。",
+    "sentence_en": "Sitting on a rock by the sea.",
+    "hint_en": "how do you read 岩?",
+    "correct_hiragana": "いわ",
+    "meaning": "boulder"
+   },
+   {
+    "format": "sentence",
+    "kanji": "星",
+    "sentence_jp": "夜空に星が見える。",
+    "sentence_en": "Stars are visible in the night sky.",
+    "hint_en": "how do you read 星?",
+    "correct_hiragana": "ほし",
+    "meaning": "star"
+   },
+   {
+    "format": "sentence",
+    "kanji": "晴",
+    "sentence_jp": "今日は晴れだ。",
+    "sentence_en": "Today is sunny.",
+    "hint_en": "how do you read 晴?",
+    "correct_hiragana": "はれ",
+    "meaning": "sunny / clear"
+   },
+   {
+    "format": "sentence",
+    "kanji": "雪",
+    "sentence_jp": "雪がふってきた。",
+    "sentence_en": "Snow has started to fall.",
+    "hint_en": "how do you read 雪?",
+    "correct_hiragana": "ゆき",
+    "meaning": "snow"
+   }
+  ],
+  "G2_Animals": [
+   {
+    "format": "word",
+    "kanji": "魚",
+    "display": "魚",
+    "hint_en": "lives in water",
+    "correct_hiragana": "さかな",
+    "meaning": "fish"
+   },
+   {
+    "format": "word",
+    "kanji": "鳥",
+    "display": "鳥",
+    "hint_en": "has wings and flies",
+    "correct_hiragana": "とり",
+    "meaning": "bird"
+   },
+   {
+    "format": "word",
+    "kanji": "馬",
+    "display": "馬",
+    "hint_en": "a large animal we can ride",
+    "correct_hiragana": "うま",
+    "meaning": "horse"
+   },
+   {
+    "format": "word",
+    "kanji": "羽",
+    "display": "羽",
+    "hint_en": "birds have these",
+    "correct_hiragana": "はね",
+    "meaning": "feather / wing"
+   },
+   {
+    "format": "word",
+    "kanji": "牛",
+    "display": "牛",
+    "hint_en": "gives us milk",
+    "correct_hiragana": "うし",
+    "meaning": "cow"
+   },
+   {
+    "format": "sentence",
+    "kanji": "魚",
+    "sentence_jp": "川で魚をつる。",
+    "sentence_en": "Fishing in the river.",
+    "hint_en": "how do you read 魚?",
+    "correct_hiragana": "さかな",
+    "meaning": "fish"
+   },
+   {
+    "format": "sentence",
+    "kanji": "鳥",
+    "sentence_jp": "空を鳥がとぶ。",
+    "sentence_en": "Birds fly in the sky.",
+    "hint_en": "how do you read 鳥?",
+    "correct_hiragana": "とり",
+    "meaning": "bird"
+   },
+   {
+    "format": "sentence",
+    "kanji": "馬",
+    "sentence_jp": "馬にのってみたい。",
+    "sentence_en": "I want to ride a horse.",
+    "hint_en": "how do you read 馬?",
+    "correct_hiragana": "うま",
+    "meaning": "horse"
+   },
+   {
+    "format": "sentence",
+    "kanji": "羽",
+    "sentence_jp": "鳥の羽がきれいだ。",
+    "sentence_en": "The bird's feathers are pretty.",
+    "hint_en": "how do you read 羽?",
+    "correct_hiragana": "はね",
+    "meaning": "feather / wing"
+   },
+   {
+    "format": "sentence",
+    "kanji": "牛",
+    "sentence_jp": "牛のミルクをのむ。",
+    "sentence_en": "Drinking cow's milk.",
+    "hint_en": "how do you read 牛?",
+    "correct_hiragana": "うし",
+    "meaning": "cow"
+   }
+  ],
+  "G2_Body": [
+   {
+    "format": "word",
+    "kanji": "体",
+    "display": "体",
+    "hint_en": "your whole self",
+    "correct_hiragana": "からだ",
+    "meaning": "body"
+   },
+   {
+    "format": "word",
+    "kanji": "頭",
+    "display": "頭",
+    "hint_en": "we think with this",
+    "correct_hiragana": "あたま",
+    "meaning": "head"
+   },
+   {
+    "format": "word",
+    "kanji": "首",
+    "display": "首",
+    "hint_en": "connects head to body",
+    "correct_hiragana": "くび",
+    "meaning": "neck"
+   },
+   {
+    "format": "word",
+    "kanji": "顔",
+    "display": "顔",
+    "hint_en": "has eyes nose and mouth",
+    "correct_hiragana": "かお",
+    "meaning": "face"
+   },
+   {
+    "format": "word",
+    "kanji": "声",
+    "display": "声",
+    "hint_en": "what comes out when we talk",
+    "correct_hiragana": "こえ",
+    "meaning": "voice"
+   },
+   {
+    "format": "sentence",
+    "kanji": "体",
+    "sentence_jp": "体をうごかす。",
+    "sentence_en": "Moving the body.",
+    "hint_en": "how do you read 体?",
+    "correct_hiragana": "からだ",
+    "meaning": "body"
+   },
+   {
+    "format": "sentence",
+    "kanji": "頭",
+    "sentence_jp": "頭をなでる。",
+    "sentence_en": "Patting the head.",
+    "hint_en": "how do you read 頭?",
+    "correct_hiragana": "あたま",
+    "meaning": "head"
+   },
+   {
+    "format": "sentence",
+    "kanji": "首",
+    "sentence_jp": "首をかしげる。",
+    "sentence_en": "Tilting the neck in puzzlement.",
+    "hint_en": "how do you read 首?",
+    "correct_hiragana": "くび",
+    "meaning": "neck"
+   },
+   {
+    "format": "sentence",
+    "kanji": "顔",
+    "sentence_jp": "顔をあらう。",
+    "sentence_en": "Washing the face.",
+    "hint_en": "how do you read 顔?",
+    "correct_hiragana": "かお",
+    "meaning": "face"
+   },
+   {
+    "format": "sentence",
+    "kanji": "声",
+    "sentence_jp": "大きな声で歌う。",
+    "sentence_en": "Singing with a loud voice.",
+    "hint_en": "how do you read 声?",
+    "correct_hiragana": "こえ",
+    "meaning": "voice"
+   }
+  ],
+  "G2_People": [
+   {
+    "format": "word",
+    "kanji": "父",
+    "display": "お父さん",
+    "hint_en": "your dad",
+    "correct_hiragana": "おとうさん",
+    "meaning": "father"
+   },
+   {
+    "format": "word",
+    "kanji": "母",
+    "display": "お母さん",
+    "hint_en": "your mom",
+    "correct_hiragana": "おかあさん",
+    "meaning": "mother"
+   },
+   {
+    "format": "word",
+    "kanji": "兄",
+    "display": "お兄さん",
+    "hint_en": "older brother",
+    "correct_hiragana": "おにいさん",
+    "meaning": "older brother"
+   },
+   {
+    "format": "word",
+    "kanji": "姉",
+    "display": "お姉さん",
+    "hint_en": "older sister",
+    "correct_hiragana": "おねえさん",
+    "meaning": "older sister"
+   },
+   {
+    "format": "word",
+    "kanji": "弟",
+    "display": "弟",
+    "hint_en": "younger brother",
+    "correct_hiragana": "おとうと",
+    "meaning": "younger brother"
+   },
+   {
+    "format": "sentence",
+    "kanji": "父",
+    "sentence_jp": "父は会社に行く。",
+    "sentence_en": "My father goes to the company.",
+    "hint_en": "how do you read 父?",
+    "correct_hiragana": "おとうさん",
+    "meaning": "father"
+   },
+   {
+    "format": "sentence",
+    "kanji": "母",
+    "sentence_jp": "母はごはんを作る。",
+    "sentence_en": "My mother cooks meals.",
+    "hint_en": "how do you read 母?",
+    "correct_hiragana": "おかあさん",
+    "meaning": "mother"
+   },
+   {
+    "format": "sentence",
+    "kanji": "兄",
+    "sentence_jp": "兄は中学生だ。",
+    "sentence_en": "My older brother is in junior high.",
+    "hint_en": "how do you read 兄?",
+    "correct_hiragana": "おにいさん",
+    "meaning": "older brother"
+   },
+   {
+    "format": "sentence",
+    "kanji": "姉",
+    "sentence_jp": "姉は高校生だ。",
+    "sentence_en": "My older sister is in high school.",
+    "hint_en": "how do you read 姉?",
+    "correct_hiragana": "おねえさん",
+    "meaning": "older sister"
+   },
+   {
+    "format": "sentence",
+    "kanji": "弟",
+    "sentence_jp": "弟は五才だ。",
+    "sentence_en": "My younger brother is 5 years old.",
+    "hint_en": "how do you read 弟?",
+    "correct_hiragana": "おとうと",
+    "meaning": "younger brother"
+   }
+  ],
+  "G2_School": [
+   {
+    "format": "word",
+    "kanji": "書",
+    "display": "書く",
+    "hint_en": "using a pen",
+    "correct_hiragana": "かく",
+    "meaning": "to write"
+   },
+   {
+    "format": "word",
+    "kanji": "読",
+    "display": "読む",
+    "hint_en": "looking at books",
+    "correct_hiragana": "よむ",
+    "meaning": "to read"
+   },
+   {
+    "format": "word",
+    "kanji": "語",
+    "display": "日本語",
+    "hint_en": "Japanese language",
+    "correct_hiragana": "にほんご",
+    "meaning": "language"
+   },
+   {
+    "format": "word",
+    "kanji": "言",
+    "display": "言う",
+    "hint_en": "speaking words",
+    "correct_hiragana": "いう",
+    "meaning": "to say"
+   },
+   {
+    "format": "word",
+    "kanji": "話",
+    "display": "話す",
+    "hint_en": "communicating",
+    "correct_hiragana": "はなす",
+    "meaning": "to speak"
+   },
+   {
+    "format": "sentence",
+    "kanji": "書",
+    "sentence_jp": "日記を書く。",
+    "sentence_en": "Writing a diary.",
+    "hint_en": "how do you read 書?",
+    "correct_hiragana": "かく",
+    "meaning": "to write"
+   },
+   {
+    "format": "sentence",
+    "kanji": "読",
+    "sentence_jp": "本を読むのがすきだ。",
+    "sentence_en": "I like reading books.",
+    "hint_en": "how do you read 読?",
+    "correct_hiragana": "よむ",
+    "meaning": "to read"
+   },
+   {
+    "format": "sentence",
+    "kanji": "語",
+    "sentence_jp": "にほんごを学ぶ。",
+    "sentence_en": "Learning Japanese.",
+    "hint_en": "how do you read 語?",
+    "correct_hiragana": "にほんご",
+    "meaning": "language"
+   },
+   {
+    "format": "sentence",
+    "kanji": "言",
+    "sentence_jp": "本当のことを言う。",
+    "sentence_en": "Telling the truth.",
+    "hint_en": "how do you read 言?",
+    "correct_hiragana": "いう",
+    "meaning": "to say"
+   },
+   {
+    "format": "sentence",
+    "kanji": "話",
+    "sentence_jp": "先生と話す。",
+    "sentence_en": "Talking with the teacher.",
+    "hint_en": "how do you read 話?",
+    "correct_hiragana": "はなす",
+    "meaning": "to speak"
+   }
+  ],
+  "G2_Action": [
+   {
+    "format": "word",
+    "kanji": "止",
+    "display": "止まる",
+    "hint_en": "no longer moving",
+    "correct_hiragana": "とまる",
+    "meaning": "to stop"
+   },
+   {
+    "format": "word",
+    "kanji": "歩",
+    "display": "歩く",
+    "hint_en": "moving on foot",
+    "correct_hiragana": "あるく",
+    "meaning": "to walk"
+   },
+   {
+    "format": "word",
+    "kanji": "走",
+    "display": "走る",
+    "hint_en": "moving fast on foot",
+    "correct_hiragana": "はしる",
+    "meaning": "to run"
+   },
+   {
+    "format": "word",
+    "kanji": "帰",
+    "display": "帰る",
+    "hint_en": "going back home",
+    "correct_hiragana": "かえる",
+    "meaning": "to return"
+   },
+   {
+    "format": "word",
+    "kanji": "来",
+    "display": "来る",
+    "hint_en": "moving toward here",
+    "correct_hiragana": "くる",
+    "meaning": "to come"
+   },
+   {
+    "format": "sentence",
+    "kanji": "止",
+    "sentence_jp": "車が止まる。",
+    "sentence_en": "The car stops.",
+    "hint_en": "how do you read 止?",
+    "correct_hiragana": "とまる",
+    "meaning": "to stop"
+   },
+   {
+    "format": "sentence",
+    "kanji": "歩",
+    "sentence_jp": "学校まで歩く。",
+    "sentence_en": "Walking to school.",
+    "hint_en": "how do you read 歩?",
+    "correct_hiragana": "あるく",
+    "meaning": "to walk"
+   },
+   {
+    "format": "sentence",
+    "kanji": "走",
+    "sentence_jp": "公園を走る。",
+    "sentence_en": "Running through the park.",
+    "hint_en": "how do you read 走?",
+    "correct_hiragana": "はしる",
+    "meaning": "to run"
+   },
+   {
+    "format": "sentence",
+    "kanji": "帰",
+    "sentence_jp": "家に帰る。",
+    "sentence_en": "Going home.",
+    "hint_en": "how do you read 帰?",
+    "correct_hiragana": "かえる",
+    "meaning": "to return"
+   },
+   {
+    "format": "sentence",
+    "kanji": "来",
+    "sentence_jp": "友だちが来た。",
+    "sentence_en": "My friend has come.",
+    "hint_en": "how do you read 来?",
+    "correct_hiragana": "くる",
+    "meaning": "to come"
+   }
+  ],
+  "G2_Town": [
+   {
+    "format": "word",
+    "kanji": "道",
+    "display": "道",
+    "hint_en": "we walk on this",
+    "correct_hiragana": "みち",
+    "meaning": "road / path"
+   },
+   {
+    "format": "word",
+    "kanji": "門",
+    "display": "門",
+    "hint_en": "entrance gate",
+    "correct_hiragana": "もん",
+    "meaning": "gate"
+   },
+   {
+    "format": "word",
+    "kanji": "戸",
+    "display": "戸",
+    "hint_en": "a door",
+    "correct_hiragana": "と",
+    "meaning": "door / entrance"
+   },
+   {
+    "format": "word",
+    "kanji": "室",
+    "display": "教室",
+    "hint_en": "classroom",
+    "correct_hiragana": "きょうしつ",
+    "meaning": "room"
+   },
+   {
+    "format": "word",
+    "kanji": "店",
+    "display": "お店",
+    "hint_en": "where we buy things",
+    "correct_hiragana": "おみせ",
+    "meaning": "shop"
+   },
+   {
+    "format": "sentence",
+    "kanji": "道",
+    "sentence_jp": "家までの道をおぼえる。",
+    "sentence_en": "Memorizing the road home.",
+    "hint_en": "how do you read 道?",
+    "correct_hiragana": "みち",
+    "meaning": "road / path"
+   },
+   {
+    "format": "sentence",
+    "kanji": "門",
+    "sentence_jp": "門が大きくあく。",
+    "sentence_en": "The gate opens wide.",
+    "hint_en": "how do you read 門?",
+    "correct_hiragana": "もん",
+    "meaning": "gate"
+   },
+   {
+    "format": "sentence",
+    "kanji": "戸",
+    "sentence_jp": "戸をあける。",
+    "sentence_en": "Opening the door.",
+    "hint_en": "how do you read 戸?",
+    "correct_hiragana": "と",
+    "meaning": "door / entrance"
+   },
+   {
+    "format": "sentence",
+    "kanji": "室",
+    "sentence_jp": "教室に入る。",
+    "sentence_en": "Entering the classroom.",
+    "hint_en": "how do you read 室?",
+    "correct_hiragana": "きょうしつ",
+    "meaning": "room"
+   },
+   {
+    "format": "sentence",
+    "kanji": "店",
+    "sentence_jp": "本やさんでマンガを買う。",
+    "sentence_en": "Buying manga at the bookstore.",
+    "hint_en": "how do you read 店?",
+    "correct_hiragana": "おみせ",
+    "meaning": "shop"
+   }
+  ],
+  "G2_Time": [
+   {
+    "format": "word",
+    "kanji": "曜",
+    "display": "曜日",
+    "hint_en": "day of the week",
+    "correct_hiragana": "ようび",
+    "meaning": "day of the week"
+   },
+   {
+    "format": "word",
+    "kanji": "朝",
+    "display": "朝",
+    "hint_en": "the start of the day",
+    "correct_hiragana": "あさ",
+    "meaning": "morning"
+   },
+   {
+    "format": "word",
+    "kanji": "昼",
+    "display": "昼",
+    "hint_en": "the middle of the day",
+    "correct_hiragana": "ひる",
+    "meaning": "daytime / noon"
+   },
+   {
+    "format": "word",
+    "kanji": "夜",
+    "display": "夜",
+    "hint_en": "dark and quiet time",
+    "correct_hiragana": "よる",
+    "meaning": "night"
+   },
+   {
+    "format": "word",
+    "kanji": "今",
+    "display": "今日",
+    "hint_en": "today",
+    "correct_hiragana": "きょう",
+    "meaning": "now / today"
+   },
+   {
+    "format": "sentence",
+    "kanji": "曜",
+    "sentence_jp": "日曜日は休みだ。",
+    "sentence_en": "Sunday is a holiday.",
+    "hint_en": "how do you read 曜?",
+    "correct_hiragana": "ようび",
+    "meaning": "day of the week"
+   },
+   {
+    "format": "sentence",
+    "kanji": "朝",
+    "sentence_jp": "朝早くおきる。",
+    "sentence_en": "Getting up early in the morning.",
+    "hint_en": "how do you read 朝?",
+    "correct_hiragana": "あさ",
+    "meaning": "morning"
+   },
+   {
+    "format": "sentence",
+    "kanji": "昼",
+    "sentence_jp": "昼ごはんを食べる。",
+    "sentence_en": "Eating lunch.",
+    "hint_en": "how do you read 昼?",
+    "correct_hiragana": "ひる",
+    "meaning": "daytime / noon"
+   },
+   {
+    "format": "sentence",
+    "kanji": "夜",
+    "sentence_jp": "夜空に星が出る。",
+    "sentence_en": "Stars come out in the night sky.",
+    "hint_en": "how do you read 夜?",
+    "correct_hiragana": "よる",
+    "meaning": "night"
+   },
+   {
+    "format": "sentence",
+    "kanji": "今",
+    "sentence_jp": "今、雨がふっている。",
+    "sentence_en": "It is raining now.",
+    "hint_en": "how do you read 今?",
+    "correct_hiragana": "きょう",
+    "meaning": "now / today"
+   }
+  ],
+  "G2_Colors": [
+   {
+    "format": "word",
+    "kanji": "黄",
+    "display": "黄色",
+    "hint_en": "the color of the sun",
+    "correct_hiragana": "きいろ",
+    "meaning": "yellow"
+   },
+   {
+    "format": "word",
+    "kanji": "黒",
+    "display": "黒い",
+    "hint_en": "the color of night",
+    "correct_hiragana": "くろい",
+    "meaning": "black"
+   },
+   {
+    "format": "word",
+    "kanji": "色",
+    "display": "色",
+    "hint_en": "red blue and green are these",
+    "correct_hiragana": "いろ",
+    "meaning": "color"
+   },
+   {
+    "format": "word",
+    "kanji": "茶",
+    "display": "お茶",
+    "hint_en": "a hot drink",
+    "correct_hiragana": "おちゃ",
+    "meaning": "tea / brown"
+   },
+   {
+    "format": "word",
+    "kanji": "形",
+    "display": "形",
+    "hint_en": "circle square triangle",
+    "correct_hiragana": "かたち",
+    "meaning": "shape"
+   },
+   {
+    "format": "sentence",
+    "kanji": "黄",
+    "sentence_jp": "黄色いひまわりがさく。",
+    "sentence_en": "Yellow sunflowers bloom.",
+    "hint_en": "how do you read 黄?",
+    "correct_hiragana": "きいろ",
+    "meaning": "yellow"
+   },
+   {
+    "format": "sentence",
+    "kanji": "黒",
+    "sentence_jp": "黒いいぬがいる。",
+    "sentence_en": "There is a black dog.",
+    "hint_en": "how do you read 黒?",
+    "correct_hiragana": "くろい",
+    "meaning": "black"
+   },
+   {
+    "format": "sentence",
+    "kanji": "色",
+    "sentence_jp": "赤色がすきだ。",
+    "sentence_en": "I like red.",
+    "hint_en": "how do you read 色?",
+    "correct_hiragana": "いろ",
+    "meaning": "color"
+   },
+   {
+    "format": "sentence",
+    "kanji": "茶",
+    "sentence_jp": "お茶をのむ。",
+    "sentence_en": "Drinking tea.",
+    "hint_en": "how do you read 茶?",
+    "correct_hiragana": "おちゃ",
+    "meaning": "tea / brown"
+   },
+   {
+    "format": "sentence",
+    "kanji": "形",
+    "sentence_jp": "丸い形をしている。",
+    "sentence_en": "It has a round shape.",
+    "hint_en": "how do you read 形?",
+    "correct_hiragana": "かたち",
+    "meaning": "shape"
+   }
+  ]
+ },
+ "書き": {
+  "G1_Numbers": [
+   {
+    "format": "word",
+    "kanji": "一",
+    "display_kata": "イチ",
+    "hint_en": "the number 1",
+    "correct_kanji": "一",
+    "meaning": "one"
+   },
+   {
+    "format": "word",
+    "kanji": "二",
+    "display_kata": "ニ",
+    "hint_en": "the number 2",
+    "correct_kanji": "二",
+    "meaning": "two"
+   },
+   {
+    "format": "word",
+    "kanji": "三",
+    "display_kata": "サン",
+    "hint_en": "the number 3",
+    "correct_kanji": "三",
+    "meaning": "three"
+   },
+   {
+    "format": "word",
+    "kanji": "四",
+    "display_kata": "シ",
+    "hint_en": "the number 4",
+    "correct_kanji": "四",
+    "meaning": "four"
+   },
+   {
+    "format": "word",
+    "kanji": "五",
+    "display_kata": "ゴ",
+    "hint_en": "the number 5",
+    "correct_kanji": "五",
+    "meaning": "five"
+   },
+   {
+    "format": "sentence",
+    "kanji": "一",
+    "sentence_jp_with_kata": "イ日は二十四時間です。",
+    "sentence_en": "A day has 24 hours.",
+    "hint_en": "write 一 in kanji",
+    "correct_kanji": "一",
+    "meaning": "one"
+   },
+   {
+    "format": "sentence",
+    "kanji": "二",
+    "sentence_jp_with_kata": "妹はニさいです。",
+    "sentence_en": "My little sister is 2 years old.",
+    "hint_en": "write 二 in kanji",
+    "correct_kanji": "二",
+    "meaning": "two"
+   },
+   {
+    "format": "sentence",
+    "kanji": "三",
+    "sentence_jp_with_kata": "サびきの子ぶた。",
+    "sentence_en": "Three little pigs.",
+    "hint_en": "write 三 in kanji",
+    "correct_kanji": "三",
+    "meaning": "three"
+   },
+   {
+    "format": "sentence",
+    "kanji": "四",
+    "sentence_jp_with_kata": "シ月に学校がはじまる。",
+    "sentence_en": "School starts in April.",
+    "hint_en": "write 四 in kanji",
+    "correct_kanji": "四",
+    "meaning": "four"
+   },
+   {
+    "format": "sentence",
+    "kanji": "五",
+    "sentence_jp_with_kata": "ゴ人で公園へ行った。",
+    "sentence_en": "Five of us went to the park.",
+    "hint_en": "write 五 in kanji",
+    "correct_kanji": "五",
+    "meaning": "five"
+   }
+  ],
+  "G1_Nature": [
+   {
+    "format": "word",
+    "kanji": "山",
+    "display_kata": "ヤマ",
+    "hint_en": "a tall landform",
+    "correct_kanji": "山",
+    "meaning": "mountain"
+   },
+   {
+    "format": "word",
+    "kanji": "川",
+    "display_kata": "カワ",
+    "hint_en": "water flows here",
+    "correct_kanji": "川",
+    "meaning": "river"
+   },
+   {
+    "format": "word",
+    "kanji": "田",
+    "display_kata": "タンボ",
+    "hint_en": "where rice grows",
+    "correct_kanji": "田んぼ",
+    "meaning": "rice paddy"
+   },
+   {
+    "format": "word",
+    "kanji": "木",
+    "display_kata": "キ",
+    "hint_en": "gives us shade",
+    "correct_kanji": "木",
+    "meaning": "tree / wood"
+   },
+   {
+    "format": "word",
+    "kanji": "火",
+    "display_kata": "ヒ",
+    "hint_en": "hot and bright",
+    "correct_kanji": "火",
+    "meaning": "fire"
+   },
+   {
+    "format": "sentence",
+    "kanji": "山",
+    "sentence_jp_with_kata": "あのヤはとても高い。",
+    "sentence_en": "That mountain is very tall.",
+    "hint_en": "write 山 in kanji",
+    "correct_kanji": "山",
+    "meaning": "mountain"
+   },
+   {
+    "format": "sentence",
+    "kanji": "川",
+    "sentence_jp_with_kata": "カで魚をつかまえた。",
+    "sentence_en": "I caught fish in the river.",
+    "hint_en": "write 川 in kanji",
+    "correct_kanji": "川",
+    "meaning": "river"
+   },
+   {
+    "format": "sentence",
+    "kanji": "田",
+    "sentence_jp_with_kata": "タんぼでお米を作る。",
+    "sentence_en": "Rice is grown in the paddy.",
+    "hint_en": "write 田 in kanji",
+    "correct_kanji": "田",
+    "meaning": "rice paddy"
+   },
+   {
+    "format": "sentence",
+    "kanji": "木",
+    "sentence_jp_with_kata": "大きなキの下で休む。",
+    "sentence_en": "Resting under a big tree.",
+    "hint_en": "write 木 in kanji",
+    "correct_kanji": "木",
+    "meaning": "tree / wood"
+   },
+   {
+    "format": "sentence",
+    "kanji": "火",
+    "sentence_jp_with_kata": "キャンプでヒをつける。",
+    "sentence_en": "Lighting a fire at camp.",
+    "hint_en": "write 火 in kanji",
+    "correct_kanji": "火",
+    "meaning": "fire"
+   }
+  ],
+  "G1_Animals": [
+   {
+    "format": "word",
+    "kanji": "虫",
+    "display_kata": "ムシ",
+    "hint_en": "bugs and insects",
+    "correct_kanji": "虫",
+    "meaning": "insect"
+   },
+   {
+    "format": "word",
+    "kanji": "犬",
+    "display_kata": "イヌ",
+    "hint_en": "a furry pet that barks",
+    "correct_kanji": "犬",
+    "meaning": "dog"
+   },
+   {
+    "format": "word",
+    "kanji": "貝",
+    "display_kata": "カイ",
+    "hint_en": "found on the beach",
+    "correct_kanji": "貝",
+    "meaning": "shell"
+   },
+   {
+    "format": "word",
+    "kanji": "虫",
+    "display_kata": "ムシ",
+    "hint_en": "bugs and insects",
+    "correct_kanji": "虫",
+    "meaning": "insect"
+   },
+   {
+    "format": "word",
+    "kanji": "犬",
+    "display_kata": "イヌ",
+    "hint_en": "a furry pet that barks",
+    "correct_kanji": "犬",
+    "meaning": "dog"
+   },
+   {
+    "format": "sentence",
+    "kanji": "虫",
+    "sentence_jp_with_kata": "ムめがねではっぱを見る。",
+    "sentence_en": "Looking at a leaf with a magnifying glass.",
+    "hint_en": "write 虫 in kanji",
+    "correct_kanji": "虫",
+    "meaning": "insect"
+   },
+   {
+    "format": "sentence",
+    "kanji": "犬",
+    "sentence_jp_with_kata": "イがしっぽをふっている。",
+    "sentence_en": "The dog is wagging its tail.",
+    "hint_en": "write 犬 in kanji",
+    "correct_kanji": "犬",
+    "meaning": "dog"
+   },
+   {
+    "format": "sentence",
+    "kanji": "貝",
+    "sentence_jp_with_kata": "カがらをひろう。",
+    "sentence_en": "Picking up seashells.",
+    "hint_en": "write 貝 in kanji",
+    "correct_kanji": "貝",
+    "meaning": "shell"
+   },
+   {
+    "format": "sentence",
+    "kanji": "虫",
+    "sentence_jp_with_kata": "ムめがねではっぱを見る。",
+    "sentence_en": "Looking at a leaf with a magnifying glass.",
+    "hint_en": "write 虫 in kanji",
+    "correct_kanji": "虫",
+    "meaning": "insect"
+   },
+   {
+    "format": "sentence",
+    "kanji": "犬",
+    "sentence_jp_with_kata": "イがしっぽをふっている。",
+    "sentence_en": "The dog is wagging its tail.",
+    "hint_en": "write 犬 in kanji",
+    "correct_kanji": "犬",
+    "meaning": "dog"
+   }
+  ],
+  "G1_Body": [
+   {
+    "format": "word",
+    "kanji": "手",
+    "display_kata": "テ",
+    "hint_en": "we write with this",
+    "correct_kanji": "手",
+    "meaning": "hand"
+   },
+   {
+    "format": "word",
+    "kanji": "足",
+    "display_kata": "アシ",
+    "hint_en": "we walk with these",
+    "correct_kanji": "足",
+    "meaning": "foot / leg"
+   },
+   {
+    "format": "word",
+    "kanji": "目",
+    "display_kata": "メ",
+    "hint_en": "we see with these",
+    "correct_kanji": "目",
+    "meaning": "eye"
+   },
+   {
+    "format": "word",
+    "kanji": "口",
+    "display_kata": "クチ",
+    "hint_en": "we eat and talk with this",
+    "correct_kanji": "口",
+    "meaning": "mouth"
+   },
+   {
+    "format": "word",
+    "kanji": "耳",
+    "display_kata": "ミミ",
+    "hint_en": "we hear with these",
+    "correct_kanji": "耳",
+    "meaning": "ear"
+   },
+   {
+    "format": "sentence",
+    "kanji": "手",
+    "sentence_jp_with_kata": "きれいなテをしている。",
+    "sentence_en": "He has clean hands.",
+    "hint_en": "write 手 in kanji",
+    "correct_kanji": "手",
+    "meaning": "hand"
+   },
+   {
+    "format": "sentence",
+    "kanji": "足",
+    "sentence_jp_with_kata": "アがいたくなった。",
+    "sentence_en": "My leg started to hurt.",
+    "hint_en": "write 足 in kanji",
+    "correct_kanji": "足",
+    "meaning": "foot / leg"
+   },
+   {
+    "format": "sentence",
+    "kanji": "目",
+    "sentence_jp_with_kata": "メを大きくあける。",
+    "sentence_en": "Open your eyes wide.",
+    "hint_en": "write 目 in kanji",
+    "correct_kanji": "目",
+    "meaning": "eye"
+   },
+   {
+    "format": "sentence",
+    "kanji": "口",
+    "sentence_jp_with_kata": "クを大きくあけて歌う。",
+    "sentence_en": "Sing with mouth wide open.",
+    "hint_en": "write 口 in kanji",
+    "correct_kanji": "口",
+    "meaning": "mouth"
+   },
+   {
+    "format": "sentence",
+    "kanji": "耳",
+    "sentence_jp_with_kata": "ミがよく聞こえる。",
+    "sentence_en": "My ears can hear well.",
+    "hint_en": "write 耳 in kanji",
+    "correct_kanji": "耳",
+    "meaning": "ear"
+   }
+  ],
+  "G1_People": [
+   {
+    "format": "word",
+    "kanji": "男",
+    "display_kata": "オトコ",
+    "hint_en": "a boy or man",
+    "correct_kanji": "男",
+    "meaning": "man / boy"
+   },
+   {
+    "format": "word",
+    "kanji": "女",
+    "display_kata": "オンナ",
+    "hint_en": "a girl or woman",
+    "correct_kanji": "女",
+    "meaning": "woman / girl"
+   },
+   {
+    "format": "word",
+    "kanji": "子",
+    "display_kata": "コドモ",
+    "hint_en": "young people",
+    "correct_kanji": "子ども",
+    "meaning": "child"
+   },
+   {
+    "format": "word",
+    "kanji": "人",
+    "display_kata": "ヒト",
+    "hint_en": "a person",
+    "correct_kanji": "人",
+    "meaning": "person"
+   },
+   {
+    "format": "word",
+    "kanji": "王",
+    "display_kata": "オウサマ",
+    "hint_en": "the king",
+    "correct_kanji": "王さま",
+    "meaning": "king"
+   },
+   {
+    "format": "sentence",
+    "kanji": "男",
+    "sentence_jp_with_kata": "オの子が三人いる。",
+    "sentence_en": "There are three boys.",
+    "hint_en": "write 男 in kanji",
+    "correct_kanji": "男",
+    "meaning": "man / boy"
+   },
+   {
+    "format": "sentence",
+    "kanji": "女",
+    "sentence_jp_with_kata": "オの人にあいさつする。",
+    "sentence_en": "Greet the woman.",
+    "hint_en": "write 女 in kanji",
+    "correct_kanji": "女",
+    "meaning": "woman / girl"
+   },
+   {
+    "format": "sentence",
+    "kanji": "子",
+    "sentence_jp_with_kata": "コねこがあそんでいる。",
+    "sentence_en": "The kitten is playing.",
+    "hint_en": "write 子 in kanji",
+    "correct_kanji": "子",
+    "meaning": "child"
+   },
+   {
+    "format": "sentence",
+    "kanji": "人",
+    "sentence_jp_with_kata": "いいヒにあえた。",
+    "sentence_en": "I met a nice person.",
+    "hint_en": "write 人 in kanji",
+    "correct_kanji": "人",
+    "meaning": "person"
+   },
+   {
+    "format": "sentence",
+    "kanji": "王",
+    "sentence_jp_with_kata": "オさまがしろにすむ。",
+    "sentence_en": "The king lives in a castle.",
+    "hint_en": "write 王 in kanji",
+    "correct_kanji": "王",
+    "meaning": "king"
+   }
+  ],
+  "G1_School": [
+   {
+    "format": "word",
+    "kanji": "学",
+    "display_kata": "ガッコウ",
+    "hint_en": "where we study",
+    "correct_kanji": "学校",
+    "meaning": "study / learning"
+   },
+   {
+    "format": "word",
+    "kanji": "校",
+    "display_kata": "ガッコウ",
+    "hint_en": "where we study",
+    "correct_kanji": "学校",
+    "meaning": "school"
+   },
+   {
+    "format": "word",
+    "kanji": "先",
+    "display_kata": "センセイ",
+    "hint_en": "your teacher",
+    "correct_kanji": "先生",
+    "meaning": "ahead / before"
+   },
+   {
+    "format": "word",
+    "kanji": "生",
+    "display_kata": "センセイ",
+    "hint_en": "your teacher",
+    "correct_kanji": "先生",
+    "meaning": "life / student"
+   },
+   {
+    "format": "word",
+    "kanji": "本",
+    "display_kata": "ホン",
+    "hint_en": "we read this",
+    "correct_kanji": "本",
+    "meaning": "book / origin"
+   },
+   {
+    "format": "sentence",
+    "kanji": "学",
+    "sentence_jp_with_kata": "毎日ガ校でガぶ。",
+    "sentence_en": "I learn at school every day.",
+    "hint_en": "write 学 in kanji",
+    "correct_kanji": "学",
+    "meaning": "study / learning"
+   },
+   {
+    "format": "sentence",
+    "kanji": "校",
+    "sentence_jp_with_kata": "新しい学ガに通う。",
+    "sentence_en": "Attending a new school.",
+    "hint_en": "write 校 in kanji",
+    "correct_kanji": "校",
+    "meaning": "school"
+   },
+   {
+    "format": "sentence",
+    "kanji": "先",
+    "sentence_jp_with_kata": "セ生がやさしい。",
+    "sentence_en": "The teacher is kind.",
+    "hint_en": "write 先 in kanji",
+    "correct_kanji": "先",
+    "meaning": "ahead / before"
+   },
+   {
+    "format": "sentence",
+    "kanji": "生",
+    "sentence_jp_with_kata": "セまれた日はたんセ日。",
+    "sentence_en": "The day you were born is your birthday.",
+    "hint_en": "write 生 in kanji",
+    "correct_kanji": "生",
+    "meaning": "life / student"
+   },
+   {
+    "format": "sentence",
+    "kanji": "本",
+    "sentence_jp_with_kata": "図書かんでホをかりた。",
+    "sentence_en": "I borrowed a book at the library.",
+    "hint_en": "write 本 in kanji",
+    "correct_kanji": "本",
+    "meaning": "book / origin"
+   }
+  ],
+  "G1_Town": [
+   {
+    "format": "word",
+    "kanji": "村",
+    "display_kata": "ムラ",
+    "hint_en": "a small community",
+    "correct_kanji": "村",
+    "meaning": "village"
+   },
+   {
+    "format": "word",
+    "kanji": "町",
+    "display_kata": "マチ",
+    "hint_en": "bigger than a village",
+    "correct_kanji": "町",
+    "meaning": "town"
+   },
+   {
+    "format": "word",
+    "kanji": "車",
+    "display_kata": "クルマ",
+    "hint_en": "it has four wheels",
+    "correct_kanji": "車",
+    "meaning": "car / vehicle"
+   },
+   {
+    "format": "word",
+    "kanji": "村",
+    "display_kata": "ムラ",
+    "hint_en": "a small community",
+    "correct_kanji": "村",
+    "meaning": "village"
+   },
+   {
+    "format": "word",
+    "kanji": "町",
+    "display_kata": "マチ",
+    "hint_en": "bigger than a village",
+    "correct_kanji": "町",
+    "meaning": "town"
+   },
+   {
+    "format": "sentence",
+    "kanji": "村",
+    "sentence_jp_with_kata": "ムの人にあいさつした。",
+    "sentence_en": "I greeted the villagers.",
+    "hint_en": "write 村 in kanji",
+    "correct_kanji": "村",
+    "meaning": "village"
+   },
+   {
+    "format": "sentence",
+    "kanji": "町",
+    "sentence_jp_with_kata": "マの中をさんぽする。",
+    "sentence_en": "Taking a walk in town.",
+    "hint_en": "write 町 in kanji",
+    "correct_kanji": "町",
+    "meaning": "town"
+   },
+   {
+    "format": "sentence",
+    "kanji": "車",
+    "sentence_jp_with_kata": "お父さんのクにのる。",
+    "sentence_en": "Getting in my dad's car.",
+    "hint_en": "write 車 in kanji",
+    "correct_kanji": "車",
+    "meaning": "car / vehicle"
+   },
+   {
+    "format": "sentence",
+    "kanji": "村",
+    "sentence_jp_with_kata": "ムの人にあいさつした。",
+    "sentence_en": "I greeted the villagers.",
+    "hint_en": "write 村 in kanji",
+    "correct_kanji": "村",
+    "meaning": "village"
+   },
+   {
+    "format": "sentence",
+    "kanji": "町",
+    "sentence_jp_with_kata": "マの中をさんぽする。",
+    "sentence_en": "Taking a walk in town.",
+    "hint_en": "write 町 in kanji",
+    "correct_kanji": "町",
+    "meaning": "town"
+   }
+  ],
+  "G1_Time": [
+   {
+    "format": "word",
+    "kanji": "日",
+    "display_kata": "ヒ",
+    "hint_en": "the sun",
+    "correct_kanji": "日",
+    "meaning": "day / sun"
+   },
+   {
+    "format": "word",
+    "kanji": "月",
+    "display_kata": "ツキ",
+    "hint_en": "shines at night",
+    "correct_kanji": "月",
+    "meaning": "moon / month"
+   },
+   {
+    "format": "word",
+    "kanji": "年",
+    "display_kata": "コトシ",
+    "hint_en": "this year",
+    "correct_kanji": "今年",
+    "meaning": "year"
+   },
+   {
+    "format": "word",
+    "kanji": "金",
+    "display_kata": "キンヨウビ",
+    "hint_en": "Friday",
+    "correct_kanji": "金よう日",
+    "meaning": "gold / money / Friday"
+   },
+   {
+    "format": "word",
+    "kanji": "日",
+    "display_kata": "ヒ",
+    "hint_en": "the sun",
+    "correct_kanji": "日",
+    "meaning": "day / sun"
+   },
+   {
+    "format": "sentence",
+    "kanji": "日",
+    "sentence_jp_with_kata": "ヒようヒは休みだ。",
+    "sentence_en": "Sunday is a holiday.",
+    "hint_en": "write 日 in kanji",
+    "correct_kanji": "日",
+    "meaning": "day / sun"
+   },
+   {
+    "format": "sentence",
+    "kanji": "月",
+    "sentence_jp_with_kata": "ツよう日に図書かんへ行く。",
+    "sentence_en": "Going to the library on Monday.",
+    "hint_en": "write 月 in kanji",
+    "correct_kanji": "月",
+    "meaning": "moon / month"
+   },
+   {
+    "format": "sentence",
+    "kanji": "年",
+    "sentence_jp_with_kata": "来コは二コ生だ。",
+    "sentence_en": "Next year I will be in second grade.",
+    "hint_en": "write 年 in kanji",
+    "correct_kanji": "年",
+    "meaning": "year"
+   },
+   {
+    "format": "sentence",
+    "kanji": "金",
+    "sentence_jp_with_kata": "キよう日にえ画を見る。",
+    "sentence_en": "Watching a movie on Friday.",
+    "hint_en": "write 金 in kanji",
+    "correct_kanji": "金",
+    "meaning": "gold / money / Friday"
+   },
+   {
+    "format": "sentence",
+    "kanji": "日",
+    "sentence_jp_with_kata": "ヒようヒは休みだ。",
+    "sentence_en": "Sunday is a holiday.",
+    "hint_en": "write 日 in kanji",
+    "correct_kanji": "日",
+    "meaning": "day / sun"
+   }
+  ],
+  "G1_Colors": [
+   {
+    "format": "word",
+    "kanji": "白",
+    "display_kata": "シロイ",
+    "hint_en": "the color of snow",
+    "correct_kanji": "白い",
+    "meaning": "white"
+   },
+   {
+    "format": "word",
+    "kanji": "赤",
+    "display_kata": "アカイ",
+    "hint_en": "the color of fire",
+    "correct_kanji": "赤い",
+    "meaning": "red"
+   },
+   {
+    "format": "word",
+    "kanji": "青",
+    "display_kata": "アオイ",
+    "hint_en": "the color of the sky",
+    "correct_kanji": "青い",
+    "meaning": "blue"
+   },
+   {
+    "format": "word",
+    "kanji": "糸",
+    "display_kata": "イト",
+    "hint_en": "used for sewing",
+    "correct_kanji": "糸",
+    "meaning": "thread"
+   },
+   {
+    "format": "word",
+    "kanji": "白",
+    "display_kata": "シロイ",
+    "hint_en": "the color of snow",
+    "correct_kanji": "白い",
+    "meaning": "white"
+   },
+   {
+    "format": "sentence",
+    "kanji": "白",
+    "sentence_jp_with_kata": "シい雲がうかぶ。",
+    "sentence_en": "White clouds are floating.",
+    "hint_en": "write 白 in kanji",
+    "correct_kanji": "白",
+    "meaning": "white"
+   },
+   {
+    "format": "sentence",
+    "kanji": "赤",
+    "sentence_jp_with_kata": "アい花がさく。",
+    "sentence_en": "Red flowers bloom.",
+    "hint_en": "write 赤 in kanji",
+    "correct_kanji": "赤",
+    "meaning": "red"
+   },
+   {
+    "format": "sentence",
+    "kanji": "青",
+    "sentence_jp_with_kata": "アいそらが広がる。",
+    "sentence_en": "The blue sky stretches out.",
+    "hint_en": "write 青 in kanji",
+    "correct_kanji": "青",
+    "meaning": "blue"
+   },
+   {
+    "format": "sentence",
+    "kanji": "糸",
+    "sentence_jp_with_kata": "赤いイでぬう。",
+    "sentence_en": "Sewing with red thread.",
+    "hint_en": "write 糸 in kanji",
+    "correct_kanji": "糸",
+    "meaning": "thread"
+   },
+   {
+    "format": "sentence",
+    "kanji": "白",
+    "sentence_jp_with_kata": "シい雲がうかぶ。",
+    "sentence_en": "White clouds are floating.",
+    "hint_en": "write 白 in kanji",
+    "correct_kanji": "白",
+    "meaning": "white"
+   }
+  ],
+  "G1_Action": [
+   {
+    "format": "word",
+    "kanji": "出",
+    "display_kata": "デル",
+    "hint_en": "going outside",
+    "correct_kanji": "出る",
+    "meaning": "to go out"
+   },
+   {
+    "format": "word",
+    "kanji": "入",
+    "display_kata": "ハイル",
+    "hint_en": "going inside",
+    "correct_kanji": "入る",
+    "meaning": "to enter"
+   },
+   {
+    "format": "word",
+    "kanji": "上",
+    "display_kata": "アガル",
+    "hint_en": "moving upward",
+    "correct_kanji": "上がる",
+    "meaning": "up / above"
+   },
+   {
+    "format": "word",
+    "kanji": "下",
+    "display_kata": "サガル",
+    "hint_en": "moving downward",
+    "correct_kanji": "下がる",
+    "meaning": "down / below"
+   },
+   {
+    "format": "word",
+    "kanji": "左",
+    "display_kata": "ヒダリ",
+    "hint_en": "opposite of right",
+    "correct_kanji": "左",
+    "meaning": "left"
+   },
+   {
+    "format": "sentence",
+    "kanji": "出",
+    "sentence_jp_with_kata": "朝早く家をデる。",
+    "sentence_en": "Leaving home early in the morning.",
+    "hint_en": "write 出 in kanji",
+    "correct_kanji": "出",
+    "meaning": "to go out"
+   },
+   {
+    "format": "sentence",
+    "kanji": "入",
+    "sentence_jp_with_kata": "へやにハる。",
+    "sentence_en": "Entering the room.",
+    "hint_en": "write 入 in kanji",
+    "correct_kanji": "入",
+    "meaning": "to enter"
+   },
+   {
+    "format": "sentence",
+    "kanji": "上",
+    "sentence_jp_with_kata": "つくえのアに本がある。",
+    "sentence_en": "There is a book on the desk.",
+    "hint_en": "write 上 in kanji",
+    "correct_kanji": "上",
+    "meaning": "up / above"
+   },
+   {
+    "format": "sentence",
+    "kanji": "下",
+    "sentence_jp_with_kata": "いすのサにねこがいる。",
+    "sentence_en": "A cat is under the chair.",
+    "hint_en": "write 下 in kanji",
+    "correct_kanji": "下",
+    "meaning": "down / below"
+   },
+   {
+    "format": "sentence",
+    "kanji": "左",
+    "sentence_jp_with_kata": "ヒにまがる。",
+    "sentence_en": "Turn left.",
+    "hint_en": "write 左 in kanji",
+    "correct_kanji": "左",
+    "meaning": "left"
+   }
+  ],
+  "G2_Numbers": [
+   {
+    "format": "word",
+    "kanji": "万",
+    "display_kata": "イチマン",
+    "hint_en": "10000",
+    "correct_kanji": "一万",
+    "meaning": "ten thousand"
+   },
+   {
+    "format": "word",
+    "kanji": "半",
+    "display_kata": "ハンブン",
+    "hint_en": "one half",
+    "correct_kanji": "半分",
+    "meaning": "half"
+   },
+   {
+    "format": "word",
+    "kanji": "多",
+    "display_kata": "オオイ",
+    "hint_en": "lots of things",
+    "correct_kanji": "多い",
+    "meaning": "many"
+   },
+   {
+    "format": "word",
+    "kanji": "少",
+    "display_kata": "スクナイ",
+    "hint_en": "not much",
+    "correct_kanji": "少ない",
+    "meaning": "few"
+   },
+   {
+    "format": "word",
+    "kanji": "太",
+    "display_kata": "フトイ",
+    "hint_en": "thick and wide",
+    "correct_kanji": "太い",
+    "meaning": "thick / fat"
+   },
+   {
+    "format": "sentence",
+    "kanji": "万",
+    "sentence_jp_with_kata": "一イ円さつをもらった。",
+    "sentence_en": "I got a 10000 yen bill.",
+    "hint_en": "write 万 in kanji",
+    "correct_kanji": "万",
+    "meaning": "ten thousand"
+   },
+   {
+    "format": "sentence",
+    "kanji": "半",
+    "sentence_jp_with_kata": "リンゴをハ分に切る。",
+    "sentence_en": "I cut the apple in half.",
+    "hint_en": "write 半 in kanji",
+    "correct_kanji": "半",
+    "meaning": "half"
+   },
+   {
+    "format": "sentence",
+    "kanji": "多",
+    "sentence_jp_with_kata": "家に本がオくある。",
+    "sentence_en": "There are many books at home.",
+    "hint_en": "write 多 in kanji",
+    "correct_kanji": "多",
+    "meaning": "many"
+   },
+   {
+    "format": "sentence",
+    "kanji": "少",
+    "sentence_jp_with_kata": "水がスなくなった。",
+    "sentence_en": "The water has become little.",
+    "hint_en": "write 少 in kanji",
+    "correct_kanji": "少",
+    "meaning": "few"
+   },
+   {
+    "format": "sentence",
+    "kanji": "太",
+    "sentence_jp_with_kata": "フい線を引く。",
+    "sentence_en": "Drawing a thick line.",
+    "hint_en": "write 太 in kanji",
+    "correct_kanji": "太",
+    "meaning": "thick / fat"
+   }
+  ],
+  "G2_Nature": [
+   {
+    "format": "word",
+    "kanji": "雲",
+    "display_kata": "クモ",
+    "hint_en": "fluffy and white in the sky",
+    "correct_kanji": "雲",
+    "meaning": "cloud"
+   },
+   {
+    "format": "word",
+    "kanji": "岩",
+    "display_kata": "イワ",
+    "hint_en": "a big heavy rock",
+    "correct_kanji": "岩",
+    "meaning": "boulder"
+   },
+   {
+    "format": "word",
+    "kanji": "星",
+    "display_kata": "ホシ",
+    "hint_en": "twinkles at night",
+    "correct_kanji": "星",
+    "meaning": "star"
+   },
+   {
+    "format": "word",
+    "kanji": "晴",
+    "display_kata": "ハレ",
+    "hint_en": "sunny weather",
+    "correct_kanji": "晴れ",
+    "meaning": "sunny / clear"
+   },
+   {
+    "format": "word",
+    "kanji": "雪",
+    "display_kata": "ユキ",
+    "hint_en": "white and cold from the sky",
+    "correct_kanji": "雪",
+    "meaning": "snow"
+   },
+   {
+    "format": "sentence",
+    "kanji": "雲",
+    "sentence_jp_with_kata": "空にクがうかぶ。",
+    "sentence_en": "Clouds are floating in the sky.",
+    "hint_en": "write 雲 in kanji",
+    "correct_kanji": "雲",
+    "meaning": "cloud"
+   },
+   {
+    "format": "sentence",
+    "kanji": "岩",
+    "sentence_jp_with_kata": "海のイにすわる。",
+    "sentence_en": "Sitting on a rock by the sea.",
+    "hint_en": "write 岩 in kanji",
+    "correct_kanji": "岩",
+    "meaning": "boulder"
+   },
+   {
+    "format": "sentence",
+    "kanji": "星",
+    "sentence_jp_with_kata": "夜空にホが見える。",
+    "sentence_en": "Stars are visible in the night sky.",
+    "hint_en": "write 星 in kanji",
+    "correct_kanji": "星",
+    "meaning": "star"
+   },
+   {
+    "format": "sentence",
+    "kanji": "晴",
+    "sentence_jp_with_kata": "今日はハれだ。",
+    "sentence_en": "Today is sunny.",
+    "hint_en": "write 晴 in kanji",
+    "correct_kanji": "晴",
+    "meaning": "sunny / clear"
+   },
+   {
+    "format": "sentence",
+    "kanji": "雪",
+    "sentence_jp_with_kata": "ユがふってきた。",
+    "sentence_en": "Snow has started to fall.",
+    "hint_en": "write 雪 in kanji",
+    "correct_kanji": "雪",
+    "meaning": "snow"
+   }
+  ],
+  "G2_Animals": [
+   {
+    "format": "word",
+    "kanji": "魚",
+    "display_kata": "サカナ",
+    "hint_en": "lives in water",
+    "correct_kanji": "魚",
+    "meaning": "fish"
+   },
+   {
+    "format": "word",
+    "kanji": "鳥",
+    "display_kata": "トリ",
+    "hint_en": "has wings and flies",
+    "correct_kanji": "鳥",
+    "meaning": "bird"
+   },
+   {
+    "format": "word",
+    "kanji": "馬",
+    "display_kata": "ウマ",
+    "hint_en": "a large animal we can ride",
+    "correct_kanji": "馬",
+    "meaning": "horse"
+   },
+   {
+    "format": "word",
+    "kanji": "羽",
+    "display_kata": "ハネ",
+    "hint_en": "birds have these",
+    "correct_kanji": "羽",
+    "meaning": "feather / wing"
+   },
+   {
+    "format": "word",
+    "kanji": "牛",
+    "display_kata": "ウシ",
+    "hint_en": "gives us milk",
+    "correct_kanji": "牛",
+    "meaning": "cow"
+   },
+   {
+    "format": "sentence",
+    "kanji": "魚",
+    "sentence_jp_with_kata": "川でサをつる。",
+    "sentence_en": "Fishing in the river.",
+    "hint_en": "write 魚 in kanji",
+    "correct_kanji": "魚",
+    "meaning": "fish"
+   },
+   {
+    "format": "sentence",
+    "kanji": "鳥",
+    "sentence_jp_with_kata": "空をトがとぶ。",
+    "sentence_en": "Birds fly in the sky.",
+    "hint_en": "write 鳥 in kanji",
+    "correct_kanji": "鳥",
+    "meaning": "bird"
+   },
+   {
+    "format": "sentence",
+    "kanji": "馬",
+    "sentence_jp_with_kata": "ウにのってみたい。",
+    "sentence_en": "I want to ride a horse.",
+    "hint_en": "write 馬 in kanji",
+    "correct_kanji": "馬",
+    "meaning": "horse"
+   },
+   {
+    "format": "sentence",
+    "kanji": "羽",
+    "sentence_jp_with_kata": "鳥のハがきれいだ。",
+    "sentence_en": "The bird's feathers are pretty.",
+    "hint_en": "write 羽 in kanji",
+    "correct_kanji": "羽",
+    "meaning": "feather / wing"
+   },
+   {
+    "format": "sentence",
+    "kanji": "牛",
+    "sentence_jp_with_kata": "ウのミルクをのむ。",
+    "sentence_en": "Drinking cow's milk.",
+    "hint_en": "write 牛 in kanji",
+    "correct_kanji": "牛",
+    "meaning": "cow"
+   }
+  ],
+  "G2_Body": [
+   {
+    "format": "word",
+    "kanji": "体",
+    "display_kata": "カラダ",
+    "hint_en": "your whole self",
+    "correct_kanji": "体",
+    "meaning": "body"
+   },
+   {
+    "format": "word",
+    "kanji": "頭",
+    "display_kata": "アタマ",
+    "hint_en": "we think with this",
+    "correct_kanji": "頭",
+    "meaning": "head"
+   },
+   {
+    "format": "word",
+    "kanji": "首",
+    "display_kata": "クビ",
+    "hint_en": "connects head to body",
+    "correct_kanji": "首",
+    "meaning": "neck"
+   },
+   {
+    "format": "word",
+    "kanji": "顔",
+    "display_kata": "カオ",
+    "hint_en": "has eyes nose and mouth",
+    "correct_kanji": "顔",
+    "meaning": "face"
+   },
+   {
+    "format": "word",
+    "kanji": "声",
+    "display_kata": "コエ",
+    "hint_en": "what comes out when we talk",
+    "correct_kanji": "声",
+    "meaning": "voice"
+   },
+   {
+    "format": "sentence",
+    "kanji": "体",
+    "sentence_jp_with_kata": "カをうごかす。",
+    "sentence_en": "Moving the body.",
+    "hint_en": "write 体 in kanji",
+    "correct_kanji": "体",
+    "meaning": "body"
+   },
+   {
+    "format": "sentence",
+    "kanji": "頭",
+    "sentence_jp_with_kata": "アをなでる。",
+    "sentence_en": "Patting the head.",
+    "hint_en": "write 頭 in kanji",
+    "correct_kanji": "頭",
+    "meaning": "head"
+   },
+   {
+    "format": "sentence",
+    "kanji": "首",
+    "sentence_jp_with_kata": "クをかしげる。",
+    "sentence_en": "Tilting the neck in puzzlement.",
+    "hint_en": "write 首 in kanji",
+    "correct_kanji": "首",
+    "meaning": "neck"
+   },
+   {
+    "format": "sentence",
+    "kanji": "顔",
+    "sentence_jp_with_kata": "カをあらう。",
+    "sentence_en": "Washing the face.",
+    "hint_en": "write 顔 in kanji",
+    "correct_kanji": "顔",
+    "meaning": "face"
+   },
+   {
+    "format": "sentence",
+    "kanji": "声",
+    "sentence_jp_with_kata": "大きなコで歌う。",
+    "sentence_en": "Singing with a loud voice.",
+    "hint_en": "write 声 in kanji",
+    "correct_kanji": "声",
+    "meaning": "voice"
+   }
+  ],
+  "G2_People": [
+   {
+    "format": "word",
+    "kanji": "父",
+    "display_kata": "オトウサン",
+    "hint_en": "your dad",
+    "correct_kanji": "お父さん",
+    "meaning": "father"
+   },
+   {
+    "format": "word",
+    "kanji": "母",
+    "display_kata": "オカアサン",
+    "hint_en": "your mom",
+    "correct_kanji": "お母さん",
+    "meaning": "mother"
+   },
+   {
+    "format": "word",
+    "kanji": "兄",
+    "display_kata": "オニイサン",
+    "hint_en": "older brother",
+    "correct_kanji": "お兄さん",
+    "meaning": "older brother"
+   },
+   {
+    "format": "word",
+    "kanji": "姉",
+    "display_kata": "オネエサン",
+    "hint_en": "older sister",
+    "correct_kanji": "お姉さん",
+    "meaning": "older sister"
+   },
+   {
+    "format": "word",
+    "kanji": "弟",
+    "display_kata": "オトウト",
+    "hint_en": "younger brother",
+    "correct_kanji": "弟",
+    "meaning": "younger brother"
+   },
+   {
+    "format": "sentence",
+    "kanji": "父",
+    "sentence_jp_with_kata": "オは会社に行く。",
+    "sentence_en": "My father goes to the company.",
+    "hint_en": "write 父 in kanji",
+    "correct_kanji": "父",
+    "meaning": "father"
+   },
+   {
+    "format": "sentence",
+    "kanji": "母",
+    "sentence_jp_with_kata": "オはごはんを作る。",
+    "sentence_en": "My mother cooks meals.",
+    "hint_en": "write 母 in kanji",
+    "correct_kanji": "母",
+    "meaning": "mother"
+   },
+   {
+    "format": "sentence",
+    "kanji": "兄",
+    "sentence_jp_with_kata": "オは中学生だ。",
+    "sentence_en": "My older brother is in junior high.",
+    "hint_en": "write 兄 in kanji",
+    "correct_kanji": "兄",
+    "meaning": "older brother"
+   },
+   {
+    "format": "sentence",
+    "kanji": "姉",
+    "sentence_jp_with_kata": "オは高校生だ。",
+    "sentence_en": "My older sister is in high school.",
+    "hint_en": "write 姉 in kanji",
+    "correct_kanji": "姉",
+    "meaning": "older sister"
+   },
+   {
+    "format": "sentence",
+    "kanji": "弟",
+    "sentence_jp_with_kata": "オは五才だ。",
+    "sentence_en": "My younger brother is 5 years old.",
+    "hint_en": "write 弟 in kanji",
+    "correct_kanji": "弟",
+    "meaning": "younger brother"
+   }
+  ],
+  "G2_School": [
+   {
+    "format": "word",
+    "kanji": "書",
+    "display_kata": "カク",
+    "hint_en": "using a pen",
+    "correct_kanji": "書く",
+    "meaning": "to write"
+   },
+   {
+    "format": "word",
+    "kanji": "読",
+    "display_kata": "ヨム",
+    "hint_en": "looking at books",
+    "correct_kanji": "読む",
+    "meaning": "to read"
+   },
+   {
+    "format": "word",
+    "kanji": "語",
+    "display_kata": "ニホンゴ",
+    "hint_en": "Japanese language",
+    "correct_kanji": "日本語",
+    "meaning": "language"
+   },
+   {
+    "format": "word",
+    "kanji": "言",
+    "display_kata": "イウ",
+    "hint_en": "speaking words",
+    "correct_kanji": "言う",
+    "meaning": "to say"
+   },
+   {
+    "format": "word",
+    "kanji": "話",
+    "display_kata": "ハナス",
+    "hint_en": "communicating",
+    "correct_kanji": "話す",
+    "meaning": "to speak"
+   },
+   {
+    "format": "sentence",
+    "kanji": "書",
+    "sentence_jp_with_kata": "日記をカく。",
+    "sentence_en": "Writing a diary.",
+    "hint_en": "write 書 in kanji",
+    "correct_kanji": "書",
+    "meaning": "to write"
+   },
+   {
+    "format": "sentence",
+    "kanji": "読",
+    "sentence_jp_with_kata": "本をヨむのがすきだ。",
+    "sentence_en": "I like reading books.",
+    "hint_en": "write 読 in kanji",
+    "correct_kanji": "読",
+    "meaning": "to read"
+   },
+   {
+    "format": "sentence",
+    "kanji": "語",
+    "sentence_jp_with_kata": "にほんごを学ぶ。",
+    "sentence_en": "Learning Japanese.",
+    "hint_en": "write 語 in kanji",
+    "correct_kanji": "語",
+    "meaning": "language"
+   },
+   {
+    "format": "sentence",
+    "kanji": "言",
+    "sentence_jp_with_kata": "本当のことをイう。",
+    "sentence_en": "Telling the truth.",
+    "hint_en": "write 言 in kanji",
+    "correct_kanji": "言",
+    "meaning": "to say"
+   },
+   {
+    "format": "sentence",
+    "kanji": "話",
+    "sentence_jp_with_kata": "先生とハす。",
+    "sentence_en": "Talking with the teacher.",
+    "hint_en": "write 話 in kanji",
+    "correct_kanji": "話",
+    "meaning": "to speak"
+   }
+  ],
+  "G2_Action": [
+   {
+    "format": "word",
+    "kanji": "止",
+    "display_kata": "トマル",
+    "hint_en": "no longer moving",
+    "correct_kanji": "止まる",
+    "meaning": "to stop"
+   },
+   {
+    "format": "word",
+    "kanji": "歩",
+    "display_kata": "アルク",
+    "hint_en": "moving on foot",
+    "correct_kanji": "歩く",
+    "meaning": "to walk"
+   },
+   {
+    "format": "word",
+    "kanji": "走",
+    "display_kata": "ハシル",
+    "hint_en": "moving fast on foot",
+    "correct_kanji": "走る",
+    "meaning": "to run"
+   },
+   {
+    "format": "word",
+    "kanji": "帰",
+    "display_kata": "カエル",
+    "hint_en": "going back home",
+    "correct_kanji": "帰る",
+    "meaning": "to return"
+   },
+   {
+    "format": "word",
+    "kanji": "来",
+    "display_kata": "クル",
+    "hint_en": "moving toward here",
+    "correct_kanji": "来る",
+    "meaning": "to come"
+   },
+   {
+    "format": "sentence",
+    "kanji": "止",
+    "sentence_jp_with_kata": "車がトまる。",
+    "sentence_en": "The car stops.",
+    "hint_en": "write 止 in kanji",
+    "correct_kanji": "止",
+    "meaning": "to stop"
+   },
+   {
+    "format": "sentence",
+    "kanji": "歩",
+    "sentence_jp_with_kata": "学校までアく。",
+    "sentence_en": "Walking to school.",
+    "hint_en": "write 歩 in kanji",
+    "correct_kanji": "歩",
+    "meaning": "to walk"
+   },
+   {
+    "format": "sentence",
+    "kanji": "走",
+    "sentence_jp_with_kata": "公園をハる。",
+    "sentence_en": "Running through the park.",
+    "hint_en": "write 走 in kanji",
+    "correct_kanji": "走",
+    "meaning": "to run"
+   },
+   {
+    "format": "sentence",
+    "kanji": "帰",
+    "sentence_jp_with_kata": "家にカる。",
+    "sentence_en": "Going home.",
+    "hint_en": "write 帰 in kanji",
+    "correct_kanji": "帰",
+    "meaning": "to return"
+   },
+   {
+    "format": "sentence",
+    "kanji": "来",
+    "sentence_jp_with_kata": "友だちがクた。",
+    "sentence_en": "My friend has come.",
+    "hint_en": "write 来 in kanji",
+    "correct_kanji": "来",
+    "meaning": "to come"
+   }
+  ],
+  "G2_Town": [
+   {
+    "format": "word",
+    "kanji": "道",
+    "display_kata": "ミチ",
+    "hint_en": "we walk on this",
+    "correct_kanji": "道",
+    "meaning": "road / path"
+   },
+   {
+    "format": "word",
+    "kanji": "門",
+    "display_kata": "モン",
+    "hint_en": "entrance gate",
+    "correct_kanji": "門",
+    "meaning": "gate"
+   },
+   {
+    "format": "word",
+    "kanji": "戸",
+    "display_kata": "ト",
+    "hint_en": "a door",
+    "correct_kanji": "戸",
+    "meaning": "door / entrance"
+   },
+   {
+    "format": "word",
+    "kanji": "室",
+    "display_kata": "キョウシツ",
+    "hint_en": "classroom",
+    "correct_kanji": "教室",
+    "meaning": "room"
+   },
+   {
+    "format": "word",
+    "kanji": "店",
+    "display_kata": "オミセ",
+    "hint_en": "where we buy things",
+    "correct_kanji": "お店",
+    "meaning": "shop"
+   },
+   {
+    "format": "sentence",
+    "kanji": "道",
+    "sentence_jp_with_kata": "家までのミをおぼえる。",
+    "sentence_en": "Memorizing the road home.",
+    "hint_en": "write 道 in kanji",
+    "correct_kanji": "道",
+    "meaning": "road / path"
+   },
+   {
+    "format": "sentence",
+    "kanji": "門",
+    "sentence_jp_with_kata": "モが大きくあく。",
+    "sentence_en": "The gate opens wide.",
+    "hint_en": "write 門 in kanji",
+    "correct_kanji": "門",
+    "meaning": "gate"
+   },
+   {
+    "format": "sentence",
+    "kanji": "戸",
+    "sentence_jp_with_kata": "トをあける。",
+    "sentence_en": "Opening the door.",
+    "hint_en": "write 戸 in kanji",
+    "correct_kanji": "戸",
+    "meaning": "door / entrance"
+   },
+   {
+    "format": "sentence",
+    "kanji": "室",
+    "sentence_jp_with_kata": "教キに入る。",
+    "sentence_en": "Entering the classroom.",
+    "hint_en": "write 室 in kanji",
+    "correct_kanji": "室",
+    "meaning": "room"
+   },
+   {
+    "format": "sentence",
+    "kanji": "店",
+    "sentence_jp_with_kata": "本やさんでマンガを買う。",
+    "sentence_en": "Buying manga at the bookstore.",
+    "hint_en": "write 店 in kanji",
+    "correct_kanji": "店",
+    "meaning": "shop"
+   }
+  ],
+  "G2_Time": [
+   {
+    "format": "word",
+    "kanji": "曜",
+    "display_kata": "ヨウビ",
+    "hint_en": "day of the week",
+    "correct_kanji": "曜日",
+    "meaning": "day of the week"
+   },
+   {
+    "format": "word",
+    "kanji": "朝",
+    "display_kata": "アサ",
+    "hint_en": "the start of the day",
+    "correct_kanji": "朝",
+    "meaning": "morning"
+   },
+   {
+    "format": "word",
+    "kanji": "昼",
+    "display_kata": "ヒル",
+    "hint_en": "the middle of the day",
+    "correct_kanji": "昼",
+    "meaning": "daytime / noon"
+   },
+   {
+    "format": "word",
+    "kanji": "夜",
+    "display_kata": "ヨル",
+    "hint_en": "dark and quiet time",
+    "correct_kanji": "夜",
+    "meaning": "night"
+   },
+   {
+    "format": "word",
+    "kanji": "今",
+    "display_kata": "キョウ",
+    "hint_en": "today",
+    "correct_kanji": "今日",
+    "meaning": "now / today"
+   },
+   {
+    "format": "sentence",
+    "kanji": "曜",
+    "sentence_jp_with_kata": "日ヨ日は休みだ。",
+    "sentence_en": "Sunday is a holiday.",
+    "hint_en": "write 曜 in kanji",
+    "correct_kanji": "曜",
+    "meaning": "day of the week"
+   },
+   {
+    "format": "sentence",
+    "kanji": "朝",
+    "sentence_jp_with_kata": "ア早くおきる。",
+    "sentence_en": "Getting up early in the morning.",
+    "hint_en": "write 朝 in kanji",
+    "correct_kanji": "朝",
+    "meaning": "morning"
+   },
+   {
+    "format": "sentence",
+    "kanji": "昼",
+    "sentence_jp_with_kata": "ヒごはんを食べる。",
+    "sentence_en": "Eating lunch.",
+    "hint_en": "write 昼 in kanji",
+    "correct_kanji": "昼",
+    "meaning": "daytime / noon"
+   },
+   {
+    "format": "sentence",
+    "kanji": "夜",
+    "sentence_jp_with_kata": "ヨ空に星が出る。",
+    "sentence_en": "Stars come out in the night sky.",
+    "hint_en": "write 夜 in kanji",
+    "correct_kanji": "夜",
+    "meaning": "night"
+   },
+   {
+    "format": "sentence",
+    "kanji": "今",
+    "sentence_jp_with_kata": "キ、雨がふっている。",
+    "sentence_en": "It is raining now.",
+    "hint_en": "write 今 in kanji",
+    "correct_kanji": "今",
+    "meaning": "now / today"
+   }
+  ],
+  "G2_Colors": [
+   {
+    "format": "word",
+    "kanji": "黄",
+    "display_kata": "キイロ",
+    "hint_en": "the color of the sun",
+    "correct_kanji": "黄色",
+    "meaning": "yellow"
+   },
+   {
+    "format": "word",
+    "kanji": "黒",
+    "display_kata": "クロイ",
+    "hint_en": "the color of night",
+    "correct_kanji": "黒い",
+    "meaning": "black"
+   },
+   {
+    "format": "word",
+    "kanji": "色",
+    "display_kata": "イロ",
+    "hint_en": "red blue and green are these",
+    "correct_kanji": "色",
+    "meaning": "color"
+   },
+   {
+    "format": "word",
+    "kanji": "茶",
+    "display_kata": "オチャ",
+    "hint_en": "a hot drink",
+    "correct_kanji": "お茶",
+    "meaning": "tea / brown"
+   },
+   {
+    "format": "word",
+    "kanji": "形",
+    "display_kata": "カタチ",
+    "hint_en": "circle square triangle",
+    "correct_kanji": "形",
+    "meaning": "shape"
+   },
+   {
+    "format": "sentence",
+    "kanji": "黄",
+    "sentence_jp_with_kata": "キ色いひまわりがさく。",
+    "sentence_en": "Yellow sunflowers bloom.",
+    "hint_en": "write 黄 in kanji",
+    "correct_kanji": "黄",
+    "meaning": "yellow"
+   },
+   {
+    "format": "sentence",
+    "kanji": "黒",
+    "sentence_jp_with_kata": "クいいぬがいる。",
+    "sentence_en": "There is a black dog.",
+    "hint_en": "write 黒 in kanji",
+    "correct_kanji": "黒",
+    "meaning": "black"
+   },
+   {
+    "format": "sentence",
+    "kanji": "色",
+    "sentence_jp_with_kata": "赤イがすきだ。",
+    "sentence_en": "I like red.",
+    "hint_en": "write 色 in kanji",
+    "correct_kanji": "色",
+    "meaning": "color"
+   },
+   {
+    "format": "sentence",
+    "kanji": "茶",
+    "sentence_jp_with_kata": "おオをのむ。",
+    "sentence_en": "Drinking tea.",
+    "hint_en": "write 茶 in kanji",
+    "correct_kanji": "茶",
+    "meaning": "tea / brown"
+   },
+   {
+    "format": "sentence",
+    "kanji": "形",
+    "sentence_jp_with_kata": "丸いカをしている。",
+    "sentence_en": "It has a round shape.",
+    "hint_en": "write 形 in kanji",
+    "correct_kanji": "形",
+    "meaning": "shape"
+   }
+  ]
+ },
+ "応用": {
+  "G1_Numbers": [
+   {
+    "direction": "k2e",
+    "kanji": "一",
+    "question": "一",
+    "choices": [
+     "two",
+     "small",
+     "ten",
+     "one"
+    ],
+    "correct": "one"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "二",
+    "question": "two",
+    "choices": [
+     "十",
+     "六",
+     "二",
+     "小"
+    ],
+    "correct": "二"
+   },
+   {
+    "direction": "k2e",
+    "kanji": "三",
+    "question": "三",
+    "choices": [
+     "four",
+     "hundred",
+     "big",
+     "three"
+    ],
+    "correct": "three"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "四",
+    "question": "four",
+    "choices": [
+     "四",
+     "一",
+     "八",
+     "三"
+    ],
+    "correct": "四"
+   },
+   {
+    "direction": "k2e",
+    "kanji": "五",
+    "question": "五",
+    "choices": [
+     "one",
+     "nine",
+     "five",
+     "two"
+    ],
+    "correct": "five"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "六",
+    "question": "six",
+    "choices": [
+     "七",
+     "六",
+     "百",
+     "一"
+    ],
+    "correct": "六"
+   },
+   {
+    "direction": "k2e",
+    "kanji": "七",
+    "question": "七",
+    "choices": [
+     "seven",
+     "ten",
+     "thousand",
+     "hundred"
+    ],
+    "correct": "seven"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "八",
+    "question": "eight",
+    "choices": [
+     "八",
+     "三",
+     "九",
+     "大"
+    ],
+    "correct": "八"
+   },
+   {
+    "direction": "k2e",
+    "kanji": "九",
+    "question": "九",
+    "choices": [
+     "three",
+     "nine",
+     "big",
+     "four"
+    ],
+    "correct": "nine"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "十",
+    "question": "ten",
+    "choices": [
+     "円",
+     "十",
+     "小",
+     "八"
+    ],
+    "correct": "十"
+   }
+  ],
+  "G1_Nature": [
+   {
+    "direction": "k2e",
+    "kanji": "山",
+    "question": "山",
+    "choices": [
+     "mountain",
+     "grove",
+     "evening",
+     "sky"
+    ],
+    "correct": "mountain"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "川",
+    "question": "river",
+    "choices": [
+     "川",
+     "早",
+     "天",
+     "土"
+    ],
+    "correct": "川"
+   },
+   {
+    "direction": "k2e",
+    "kanji": "田",
+    "question": "田",
+    "choices": [
+     "rice paddy",
+     "sky",
+     "tree / wood",
+     "water"
+    ],
+    "correct": "rice paddy"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "木",
+    "question": "tree / wood",
+    "choices": [
+     "木",
+     "山",
+     "石",
+     "音"
+    ],
+    "correct": "木"
+   },
+   {
+    "direction": "k2e",
+    "kanji": "火",
+    "question": "火",
+    "choices": [
+     "forest",
+     "fire",
+     "stone / rock",
+     "sky"
+    ],
+    "correct": "fire"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "水",
+    "question": "water",
+    "choices": [
+     "竹",
+     "水",
+     "花",
+     "山"
+    ],
+    "correct": "水"
+   },
+   {
+    "direction": "k2e",
+    "kanji": "土",
+    "question": "土",
+    "choices": [
+     "soil / earth",
+     "grass",
+     "bamboo",
+     "river"
+    ],
+    "correct": "soil / earth"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "天",
+    "question": "sky / heaven",
+    "choices": [
+     "天",
+     "早",
+     "草",
+     "川"
+    ],
+    "correct": "天"
+   },
+   {
+    "direction": "k2e",
+    "kanji": "空",
+    "question": "空",
+    "choices": [
+     "bamboo",
+     "tree / wood",
+     "fire",
+     "sky"
+    ],
+    "correct": "sky"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "雨",
+    "question": "rain",
+    "choices": [
+     "土",
+     "川",
+     "雨",
+     "早"
+    ],
+    "correct": "雨"
+   }
+  ],
+  "G1_Animals": [
+   {
+    "direction": "k2e",
+    "kanji": "虫",
+    "question": "虫",
+    "choices": [
+     "hand",
+     "insect",
+     "bow",
+     "strong"
+    ],
+    "correct": "insect"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "犬",
+    "question": "dog",
+    "choices": [
+     "鳴",
+     "土",
+     "犬",
+     "明"
+    ],
+    "correct": "犬"
+   },
+   {
+    "direction": "k2e",
+    "kanji": "貝",
+    "question": "貝",
+    "choices": [
+     "shell",
+     "to see",
+     "dog",
+     "study / learning"
+    ],
+    "correct": "shell"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "虫",
+    "question": "insect",
+    "choices": [
+     "園",
+     "曜",
+     "虫",
+     "千"
+    ],
+    "correct": "虫"
+   },
+   {
+    "direction": "k2e",
+    "kanji": "犬",
+    "question": "犬",
+    "choices": [
+     "night",
+     "dog",
+     "heart / mind",
+     "to run"
+    ],
+    "correct": "dog"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "貝",
+    "question": "shell",
+    "choices": [
+     "貝",
+     "刀",
+     "何",
+     "冬"
+    ],
+    "correct": "貝"
+   },
+   {
+    "direction": "k2e",
+    "kanji": "虫",
+    "question": "虫",
+    "choices": [
+     "parent",
+     "to meet",
+     "insect",
+     "origin / source"
+    ],
+    "correct": "insect"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "犬",
+    "question": "dog",
+    "choices": [
+     "冬",
+     "点",
+     "犬",
+     "科"
+    ],
+    "correct": "犬"
+   },
+   {
+    "direction": "k2e",
+    "kanji": "貝",
+    "question": "貝",
+    "choices": [
+     "autumn",
+     "to stop",
+     "winter",
+     "shell"
+    ],
+    "correct": "shell"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "虫",
+    "question": "insect",
+    "choices": [
+     "通",
+     "図",
+     "昼",
+     "虫"
+    ],
+    "correct": "虫"
+   }
+  ],
+  "G1_Body": [
+   {
+    "direction": "k2e",
+    "kanji": "手",
+    "question": "手",
+    "choices": [
+     "strength / power",
+     "hand",
+     "ear",
+     "foot / leg"
+    ],
+    "correct": "hand"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "足",
+    "question": "foot / leg",
+    "choices": [
+     "口",
+     "目",
+     "足",
+     "力"
+    ],
+    "correct": "足"
+   },
+   {
+    "direction": "k2e",
+    "kanji": "目",
+    "question": "目",
+    "choices": [
+     "foot / leg",
+     "strength / power",
+     "hand",
+     "eye"
+    ],
+    "correct": "eye"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "口",
+    "question": "mouth",
+    "choices": [
+     "目",
+     "足",
+     "手",
+     "口"
+    ],
+    "correct": "口"
+   },
+   {
+    "direction": "k2e",
+    "kanji": "耳",
+    "question": "耳",
+    "choices": [
+     "mouth",
+     "hand",
+     "ear",
+     "eye"
+    ],
+    "correct": "ear"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "力",
+    "question": "strength / power",
+    "choices": [
+     "力",
+     "目",
+     "足",
+     "手"
+    ],
+    "correct": "力"
+   },
+   {
+    "direction": "k2e",
+    "kanji": "手",
+    "question": "手",
+    "choices": [
+     "ear",
+     "eye",
+     "hand",
+     "mouth"
+    ],
+    "correct": "hand"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "足",
+    "question": "foot / leg",
+    "choices": [
+     "力",
+     "手",
+     "目",
+     "足"
+    ],
+    "correct": "足"
+   },
+   {
+    "direction": "k2e",
+    "kanji": "目",
+    "question": "目",
+    "choices": [
+     "eye",
+     "ear",
+     "mouth",
+     "hand"
+    ],
+    "correct": "eye"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "口",
+    "question": "mouth",
+    "choices": [
+     "足",
+     "手",
+     "口",
+     "目"
+    ],
+    "correct": "口"
+   }
+  ],
+  "G1_People": [
+   {
+    "direction": "k2e",
+    "kanji": "男",
+    "question": "男",
+    "choices": [
+     "king",
+     "child",
+     "woman / girl",
+     "man / boy"
+    ],
+    "correct": "man / boy"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "女",
+    "question": "woman / girl",
+    "choices": [
+     "男",
+     "子",
+     "人",
+     "女"
+    ],
+    "correct": "女"
+   },
+   {
+    "direction": "k2e",
+    "kanji": "子",
+    "question": "子",
+    "choices": [
+     "king",
+     "man / boy",
+     "child",
+     "woman / girl"
+    ],
+    "correct": "child"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "人",
+    "question": "person",
+    "choices": [
+     "女",
+     "人",
+     "子",
+     "男"
+    ],
+    "correct": "人"
+   },
+   {
+    "direction": "k2e",
+    "kanji": "王",
+    "question": "王",
+    "choices": [
+     "man / boy",
+     "woman / girl",
+     "person",
+     "king"
+    ],
+    "correct": "king"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "男",
+    "question": "man / boy",
+    "choices": [
+     "男",
+     "子",
+     "人",
+     "女"
+    ],
+    "correct": "男"
+   },
+   {
+    "direction": "k2e",
+    "kanji": "女",
+    "question": "女",
+    "choices": [
+     "man / boy",
+     "woman / girl",
+     "child",
+     "king"
+    ],
+    "correct": "woman / girl"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "子",
+    "question": "child",
+    "choices": [
+     "女",
+     "王",
+     "人",
+     "子"
+    ],
+    "correct": "子"
+   },
+   {
+    "direction": "k2e",
+    "kanji": "人",
+    "question": "人",
+    "choices": [
+     "king",
+     "person",
+     "man / boy",
+     "child"
+    ],
+    "correct": "person"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "王",
+    "question": "king",
+    "choices": [
+     "王",
+     "人",
+     "女",
+     "子"
+    ],
+    "correct": "王"
+   }
+  ],
+  "G1_School": [
+   {
+    "direction": "k2e",
+    "kanji": "学",
+    "question": "学",
+    "choices": [
+     "name",
+     "to stand",
+     "study / learning",
+     "letter / character"
+    ],
+    "correct": "study / learning"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "校",
+    "question": "school",
+    "choices": [
+     "字",
+     "校",
+     "立",
+     "名"
+    ],
+    "correct": "校"
+   },
+   {
+    "direction": "k2e",
+    "kanji": "先",
+    "question": "先",
+    "choices": [
+     "correct / right",
+     "spirit / energy",
+     "ahead / before",
+     "to see"
+    ],
+    "correct": "ahead / before"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "生",
+    "question": "life / student",
+    "choices": [
+     "気",
+     "見",
+     "校",
+     "生"
+    ],
+    "correct": "生"
+   },
+   {
+    "direction": "k2e",
+    "kanji": "本",
+    "question": "本",
+    "choices": [
+     "book / origin",
+     "writing / sentence",
+     "life / student",
+     "ahead / before"
+    ],
+    "correct": "book / origin"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "文",
+    "question": "writing / sentence",
+    "choices": [
+     "学",
+     "見",
+     "文",
+     "本"
+    ],
+    "correct": "文"
+   },
+   {
+    "direction": "k2e",
+    "kanji": "字",
+    "question": "字",
+    "choices": [
+     "to see",
+     "letter / character",
+     "ahead / before",
+     "to stand"
+    ],
+    "correct": "letter / character"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "名",
+    "question": "name",
+    "choices": [
+     "校",
+     "見",
+     "名",
+     "正"
+    ],
+    "correct": "名"
+   },
+   {
+    "direction": "k2e",
+    "kanji": "見",
+    "question": "見",
+    "choices": [
+     "book / origin",
+     "writing / sentence",
+     "ahead / before",
+     "to see"
+    ],
+    "correct": "to see"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "立",
+    "question": "to stand",
+    "choices": [
+     "学",
+     "立",
+     "名",
+     "生"
+    ],
+    "correct": "立"
+   }
+  ],
+  "G1_Town": [
+   {
+    "direction": "k2e",
+    "kanji": "村",
+    "question": "村",
+    "choices": [
+     "door / entrance",
+     "two",
+     "village",
+     "fish"
+    ],
+    "correct": "village"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "町",
+    "question": "town",
+    "choices": [
+     "校",
+     "町",
+     "活",
+     "読"
+    ],
+    "correct": "町"
+   },
+   {
+    "direction": "k2e",
+    "kanji": "車",
+    "question": "車",
+    "choices": [
+     "car / vehicle",
+     "forest",
+     "city",
+     "house / home"
+    ],
+    "correct": "car / vehicle"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "村",
+    "question": "village",
+    "choices": [
+     "前",
+     "楽",
+     "星",
+     "村"
+    ],
+    "correct": "村"
+   },
+   {
+    "direction": "k2e",
+    "kanji": "町",
+    "question": "町",
+    "choices": [
+     "thick / fat",
+     "to enter",
+     "town",
+     "letter / character"
+    ],
+    "correct": "town"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "車",
+    "question": "car / vehicle",
+    "choices": [
+     "十",
+     "火",
+     "今",
+     "車"
+    ],
+    "correct": "車"
+   },
+   {
+    "direction": "k2e",
+    "kanji": "村",
+    "question": "村",
+    "choices": [
+     "village",
+     "song / to sing",
+     "eight",
+     "to pull"
+    ],
+    "correct": "village"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "町",
+    "question": "town",
+    "choices": [
+     "図",
+     "点",
+     "足",
+     "町"
+    ],
+    "correct": "町"
+   },
+   {
+    "direction": "k2e",
+    "kanji": "車",
+    "question": "車",
+    "choices": [
+     "car / vehicle",
+     "to see",
+     "week",
+     "country"
+    ],
+    "correct": "car / vehicle"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "村",
+    "question": "village",
+    "choices": [
+     "方",
+     "形",
+     "内",
+     "村"
+    ],
+    "correct": "村"
+   }
+  ],
+  "G1_Time": [
+   {
+    "direction": "k2e",
+    "kanji": "日",
+    "question": "日",
+    "choices": [
+     "gold / money / Friday",
+     "year",
+     "moon / month",
+     "day / sun"
+    ],
+    "correct": "day / sun"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "月",
+    "question": "moon / month",
+    "choices": [
+     "月",
+     "金",
+     "年",
+     "日"
+    ],
+    "correct": "月"
+   },
+   {
+    "direction": "k2e",
+    "kanji": "年",
+    "question": "年",
+    "choices": [
+     "day / sun",
+     "gold / money / Friday",
+     "year",
+     "moon / month"
+    ],
+    "correct": "year"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "金",
+    "question": "gold / money / Friday",
+    "choices": [
+     "金",
+     "日",
+     "月",
+     "年"
+    ],
+    "correct": "金"
+   },
+   {
+    "direction": "k2e",
+    "kanji": "日",
+    "question": "日",
+    "choices": [
+     "moon / month",
+     "year",
+     "gold / money / Friday",
+     "day / sun"
+    ],
+    "correct": "day / sun"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "月",
+    "question": "moon / month",
+    "choices": [
+     "金",
+     "日",
+     "月",
+     "年"
+    ],
+    "correct": "月"
+   },
+   {
+    "direction": "k2e",
+    "kanji": "年",
+    "question": "年",
+    "choices": [
+     "moon / month",
+     "year",
+     "gold / money / Friday",
+     "day / sun"
+    ],
+    "correct": "year"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "金",
+    "question": "gold / money / Friday",
+    "choices": [
+     "月",
+     "日",
+     "年",
+     "金"
+    ],
+    "correct": "金"
+   },
+   {
+    "direction": "k2e",
+    "kanji": "日",
+    "question": "日",
+    "choices": [
+     "day / sun",
+     "moon / month",
+     "gold / money / Friday",
+     "year"
+    ],
+    "correct": "day / sun"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "月",
+    "question": "moon / month",
+    "choices": [
+     "金",
+     "年",
+     "日",
+     "月"
+    ],
+    "correct": "月"
+   }
+  ],
+  "G1_Colors": [
+   {
+    "direction": "k2e",
+    "kanji": "白",
+    "question": "白",
+    "choices": [
+     "blue",
+     "white",
+     "red",
+     "thread"
+    ],
+    "correct": "white"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "赤",
+    "question": "red",
+    "choices": [
+     "青",
+     "白",
+     "赤",
+     "糸"
+    ],
+    "correct": "赤"
+   },
+   {
+    "direction": "k2e",
+    "kanji": "青",
+    "question": "青",
+    "choices": [
+     "thread",
+     "red",
+     "white",
+     "blue"
+    ],
+    "correct": "blue"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "糸",
+    "question": "thread",
+    "choices": [
+     "赤",
+     "青",
+     "白",
+     "糸"
+    ],
+    "correct": "糸"
+   },
+   {
+    "direction": "k2e",
+    "kanji": "白",
+    "question": "白",
+    "choices": [
+     "blue",
+     "white",
+     "red",
+     "thread"
+    ],
+    "correct": "white"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "赤",
+    "question": "red",
+    "choices": [
+     "白",
+     "糸",
+     "青",
+     "赤"
+    ],
+    "correct": "赤"
+   },
+   {
+    "direction": "k2e",
+    "kanji": "青",
+    "question": "青",
+    "choices": [
+     "blue",
+     "thread",
+     "red",
+     "white"
+    ],
+    "correct": "blue"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "糸",
+    "question": "thread",
+    "choices": [
+     "糸",
+     "青",
+     "白",
+     "赤"
+    ],
+    "correct": "糸"
+   },
+   {
+    "direction": "k2e",
+    "kanji": "白",
+    "question": "白",
+    "choices": [
+     "white",
+     "blue",
+     "thread",
+     "red"
+    ],
+    "correct": "white"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "赤",
+    "question": "red",
+    "choices": [
+     "赤",
+     "青",
+     "糸",
+     "白"
+    ],
+    "correct": "赤"
+   }
+  ],
+  "G1_Action": [
+   {
+    "direction": "k2e",
+    "kanji": "出",
+    "question": "出",
+    "choices": [
+     "up / above",
+     "to enter",
+     "inside / middle",
+     "to go out"
+    ],
+    "correct": "to go out"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "入",
+    "question": "to enter",
+    "choices": [
+     "右",
+     "入",
+     "出",
+     "中"
+    ],
+    "correct": "入"
+   },
+   {
+    "direction": "k2e",
+    "kanji": "上",
+    "question": "上",
+    "choices": [
+     "to enter",
+     "inside / middle",
+     "left",
+     "up / above"
+    ],
+    "correct": "up / above"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "下",
+    "question": "down / below",
+    "choices": [
+     "下",
+     "右",
+     "休",
+     "上"
+    ],
+    "correct": "下"
+   },
+   {
+    "direction": "k2e",
+    "kanji": "左",
+    "question": "左",
+    "choices": [
+     "right",
+     "down / below",
+     "to enter",
+     "left"
+    ],
+    "correct": "left"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "右",
+    "question": "right",
+    "choices": [
+     "中",
+     "上",
+     "右",
+     "左"
+    ],
+    "correct": "右"
+   },
+   {
+    "direction": "k2e",
+    "kanji": "中",
+    "question": "中",
+    "choices": [
+     "inside / middle",
+     "up / above",
+     "left",
+     "to go out"
+    ],
+    "correct": "inside / middle"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "休",
+    "question": "to rest",
+    "choices": [
+     "中",
+     "上",
+     "下",
+     "休"
+    ],
+    "correct": "休"
+   },
+   {
+    "direction": "k2e",
+    "kanji": "出",
+    "question": "出",
+    "choices": [
+     "up / above",
+     "to enter",
+     "to go out",
+     "left"
+    ],
+    "correct": "to go out"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "入",
+    "question": "to enter",
+    "choices": [
+     "上",
+     "出",
+     "休",
+     "入"
+    ],
+    "correct": "入"
+   }
+  ],
+  "G2_Numbers": [
+   {
+    "direction": "k2e",
+    "kanji": "万",
+    "question": "万",
+    "choices": [
+     "many",
+     "ten thousand",
+     "measure / clock",
+     "calculation"
+    ],
+    "correct": "ten thousand"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "半",
+    "question": "half",
+    "choices": [
+     "多",
+     "分",
+     "数",
+     "半"
+    ],
+    "correct": "半"
+   },
+   {
+    "direction": "k2e",
+    "kanji": "多",
+    "question": "多",
+    "choices": [
+     "many",
+     "years old",
+     "part / minute",
+     "ten thousand"
+    ],
+    "correct": "many"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "少",
+    "question": "few",
+    "choices": [
+     "数",
+     "回",
+     "番",
+     "少"
+    ],
+    "correct": "少"
+   },
+   {
+    "direction": "k2e",
+    "kanji": "太",
+    "question": "太",
+    "choices": [
+     "many",
+     "ten thousand",
+     "thick / fat",
+     "half"
+    ],
+    "correct": "thick / fat"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "数",
+    "question": "number",
+    "choices": [
+     "数",
+     "半",
+     "才",
+     "太"
+    ],
+    "correct": "数"
+   },
+   {
+    "direction": "k2e",
+    "kanji": "算",
+    "question": "算",
+    "choices": [
+     "point / dot",
+     "years old",
+     "part / minute",
+     "calculation"
+    ],
+    "correct": "calculation"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "回",
+    "question": "times / rounds",
+    "choices": [
+     "数",
+     "番",
+     "回",
+     "半"
+    ],
+    "correct": "回"
+   },
+   {
+    "direction": "k2e",
+    "kanji": "番",
+    "question": "番",
+    "choices": [
+     "number / turn",
+     "ten thousand",
+     "number",
+     "calculation"
+    ],
+    "correct": "number / turn"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "点",
+    "question": "point / dot",
+    "choices": [
+     "点",
+     "数",
+     "計",
+     "才"
+    ],
+    "correct": "点"
+   }
+  ],
+  "G2_Nature": [
+   {
+    "direction": "k2e",
+    "kanji": "雲",
+    "question": "雲",
+    "choices": [
+     "cloud",
+     "light",
+     "autumn",
+     "sea / ocean"
+    ],
+    "correct": "cloud"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "岩",
+    "question": "boulder",
+    "choices": [
+     "晴",
+     "岩",
+     "里",
+     "星"
+    ],
+    "correct": "岩"
+   },
+   {
+    "direction": "k2e",
+    "kanji": "星",
+    "question": "星",
+    "choices": [
+     "wind",
+     "summer",
+     "plain / origin",
+     "star"
+    ],
+    "correct": "star"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "晴",
+    "question": "sunny / clear",
+    "choices": [
+     "星",
+     "晴",
+     "秋",
+     "春"
+    ],
+    "correct": "晴"
+   },
+   {
+    "direction": "k2e",
+    "kanji": "雪",
+    "question": "雪",
+    "choices": [
+     "ground / earth",
+     "cloud",
+     "boulder",
+     "snow"
+    ],
+    "correct": "snow"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "海",
+    "question": "sea / ocean",
+    "choices": [
+     "野",
+     "岩",
+     "電",
+     "海"
+    ],
+    "correct": "海"
+   },
+   {
+    "direction": "k2e",
+    "kanji": "池",
+    "question": "池",
+    "choices": [
+     "village / hometown",
+     "pond",
+     "ground / earth",
+     "field / wild"
+    ],
+    "correct": "pond"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "地",
+    "question": "ground / earth",
+    "choices": [
+     "光",
+     "海",
+     "地",
+     "星"
+    ],
+    "correct": "地"
+   },
+   {
+    "direction": "k2e",
+    "kanji": "野",
+    "question": "野",
+    "choices": [
+     "sunny / clear",
+     "electricity",
+     "field / wild",
+     "ground / earth"
+    ],
+    "correct": "field / wild"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "原",
+    "question": "plain / origin",
+    "choices": [
+     "風",
+     "岩",
+     "原",
+     "電"
+    ],
+    "correct": "原"
+   }
+  ],
+  "G2_Animals": [
+   {
+    "direction": "k2e",
+    "kanji": "魚",
+    "question": "魚",
+    "choices": [
+     "fish",
+     "meat",
+     "bird",
+     "wheat / barley"
+    ],
+    "correct": "fish"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "鳥",
+    "question": "bird",
+    "choices": [
+     "米",
+     "鳥",
+     "鳴",
+     "魚"
+    ],
+    "correct": "鳥"
+   },
+   {
+    "direction": "k2e",
+    "kanji": "馬",
+    "question": "馬",
+    "choices": [
+     "cow",
+     "wheat / barley",
+     "horse",
+     "bird"
+    ],
+    "correct": "horse"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "羽",
+    "question": "feather / wing",
+    "choices": [
+     "魚",
+     "毛",
+     "馬",
+     "羽"
+    ],
+    "correct": "羽"
+   },
+   {
+    "direction": "k2e",
+    "kanji": "牛",
+    "question": "牛",
+    "choices": [
+     "feather / wing",
+     "rice / America",
+     "cow",
+     "horse"
+    ],
+    "correct": "cow"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "鳴",
+    "question": "to cry / make sound",
+    "choices": [
+     "魚",
+     "米",
+     "鳴",
+     "毛"
+    ],
+    "correct": "鳴"
+   },
+   {
+    "direction": "k2e",
+    "kanji": "肉",
+    "question": "肉",
+    "choices": [
+     "to cry / make sound",
+     "meat",
+     "rice / America",
+     "wheat / barley"
+    ],
+    "correct": "meat"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "麦",
+    "question": "wheat / barley",
+    "choices": [
+     "麦",
+     "毛",
+     "肉",
+     "鳴"
+    ],
+    "correct": "麦"
+   },
+   {
+    "direction": "k2e",
+    "kanji": "毛",
+    "question": "毛",
+    "choices": [
+     "fur / hair",
+     "wheat / barley",
+     "cow",
+     "feather / wing"
+    ],
+    "correct": "fur / hair"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "米",
+    "question": "rice / America",
+    "choices": [
+     "米",
+     "魚",
+     "馬",
+     "鳴"
+    ],
+    "correct": "米"
+   }
+  ],
+  "G2_Body": [
+   {
+    "direction": "k2e",
+    "kanji": "体",
+    "question": "体",
+    "choices": [
+     "heart / mind",
+     "head",
+     "body",
+     "voice"
+    ],
+    "correct": "body"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "頭",
+    "question": "head",
+    "choices": [
+     "首",
+     "心",
+     "頭",
+     "体"
+    ],
+    "correct": "頭"
+   },
+   {
+    "direction": "k2e",
+    "kanji": "首",
+    "question": "首",
+    "choices": [
+     "neck",
+     "head",
+     "voice",
+     "face"
+    ],
+    "correct": "neck"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "顔",
+    "question": "face",
+    "choices": [
+     "頭",
+     "心",
+     "顔",
+     "声"
+    ],
+    "correct": "顔"
+   },
+   {
+    "direction": "k2e",
+    "kanji": "声",
+    "question": "声",
+    "choices": [
+     "heart / mind",
+     "face",
+     "voice",
+     "neck"
+    ],
+    "correct": "voice"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "心",
+    "question": "heart / mind",
+    "choices": [
+     "顔",
+     "首",
+     "心",
+     "声"
+    ],
+    "correct": "心"
+   },
+   {
+    "direction": "k2e",
+    "kanji": "体",
+    "question": "体",
+    "choices": [
+     "voice",
+     "body",
+     "head",
+     "neck"
+    ],
+    "correct": "body"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "頭",
+    "question": "head",
+    "choices": [
+     "首",
+     "頭",
+     "声",
+     "顔"
+    ],
+    "correct": "頭"
+   },
+   {
+    "direction": "k2e",
+    "kanji": "首",
+    "question": "首",
+    "choices": [
+     "face",
+     "body",
+     "neck",
+     "heart / mind"
+    ],
+    "correct": "neck"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "顔",
+    "question": "face",
+    "choices": [
+     "顔",
+     "声",
+     "頭",
+     "首"
+    ],
+    "correct": "顔"
+   }
+  ],
+  "G2_People": [
+   {
+    "direction": "k2e",
+    "kanji": "父",
+    "question": "父",
+    "choices": [
+     "to meet",
+     "city",
+     "mother",
+     "father"
+    ],
+    "correct": "father"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "母",
+    "question": "mother",
+    "choices": [
+     "母",
+     "兄",
+     "姉",
+     "弟"
+    ],
+    "correct": "母"
+   },
+   {
+    "direction": "k2e",
+    "kanji": "兄",
+    "question": "兄",
+    "choices": [
+     "younger sister",
+     "public",
+     "city",
+     "older brother"
+    ],
+    "correct": "older brother"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "姉",
+    "question": "older sister",
+    "choices": [
+     "公",
+     "自",
+     "姉",
+     "兄"
+    ],
+    "correct": "姉"
+   },
+   {
+    "direction": "k2e",
+    "kanji": "弟",
+    "question": "弟",
+    "choices": [
+     "older sister",
+     "friend",
+     "younger brother",
+     "to meet"
+    ],
+    "correct": "younger brother"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "妹",
+    "question": "younger sister",
+    "choices": [
+     "妹",
+     "兄",
+     "社",
+     "親"
+    ],
+    "correct": "妹"
+   },
+   {
+    "direction": "k2e",
+    "kanji": "親",
+    "question": "親",
+    "choices": [
+     "capital city",
+     "older sister",
+     "public",
+     "parent"
+    ],
+    "correct": "parent"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "友",
+    "question": "friend",
+    "choices": [
+     "親",
+     "兄",
+     "友",
+     "姉"
+    ],
+    "correct": "友"
+   },
+   {
+    "direction": "k2e",
+    "kanji": "公",
+    "question": "公",
+    "choices": [
+     "younger brother",
+     "public",
+     "country",
+     "self"
+    ],
+    "correct": "public"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "社",
+    "question": "company / shrine",
+    "choices": [
+     "京",
+     "社",
+     "姉",
+     "家"
+    ],
+    "correct": "社"
+   }
+  ],
+  "G2_School": [
+   {
+    "direction": "k2e",
+    "kanji": "書",
+    "question": "書",
+    "choices": [
+     "picture / stroke",
+     "to write",
+     "to speak",
+     "song / to sing"
+    ],
+    "correct": "to write"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "読",
+    "question": "to read",
+    "choices": [
+     "科",
+     "読",
+     "歌",
+     "用"
+    ],
+    "correct": "読"
+   },
+   {
+    "direction": "k2e",
+    "kanji": "語",
+    "question": "語",
+    "choices": [
+     "to write",
+     "language",
+     "to answer",
+     "to teach"
+    ],
+    "correct": "language"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "言",
+    "question": "to say",
+    "choices": [
+     "教",
+     "言",
+     "答",
+     "記"
+    ],
+    "correct": "言"
+   },
+   {
+    "direction": "k2e",
+    "kanji": "話",
+    "question": "話",
+    "choices": [
+     "subject / department",
+     "diagram / art",
+     "to speak",
+     "arrow"
+    ],
+    "correct": "to speak"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "記",
+    "question": "to record",
+    "choices": [
+     "記",
+     "言",
+     "楽",
+     "紙"
+    ],
+    "correct": "記"
+   },
+   {
+    "direction": "k2e",
+    "kanji": "科",
+    "question": "科",
+    "choices": [
+     "subject / department",
+     "strong",
+     "to speak",
+     "active / lively"
+    ],
+    "correct": "subject / department"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "図",
+    "question": "diagram / art",
+    "choices": [
+     "画",
+     "図",
+     "記",
+     "絵"
+    ],
+    "correct": "図"
+   },
+   {
+    "direction": "k2e",
+    "kanji": "画",
+    "question": "画",
+    "choices": [
+     "picture / stroke",
+     "picture / drawing",
+     "to think",
+     "to read"
+    ],
+    "correct": "picture / stroke"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "教",
+    "question": "to teach",
+    "choices": [
+     "理",
+     "教",
+     "絵",
+     "画"
+    ],
+    "correct": "教"
+   }
+  ],
+  "G2_Action": [
+   {
+    "direction": "k2e",
+    "kanji": "止",
+    "question": "止",
+    "choices": [
+     "to stop",
+     "to return",
+     "to think / feel",
+     "to walk"
+    ],
+    "correct": "to stop"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "歩",
+    "question": "to walk",
+    "choices": [
+     "引",
+     "止",
+     "食",
+     "歩"
+    ],
+    "correct": "歩"
+   },
+   {
+    "direction": "k2e",
+    "kanji": "走",
+    "question": "走",
+    "choices": [
+     "to go",
+     "to sell",
+     "to run",
+     "to pass through"
+    ],
+    "correct": "to run"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "帰",
+    "question": "to return",
+    "choices": [
+     "帰",
+     "売",
+     "食",
+     "走"
+    ],
+    "correct": "帰"
+   },
+   {
+    "direction": "k2e",
+    "kanji": "来",
+    "question": "来",
+    "choices": [
+     "to come",
+     "to listen",
+     "to go",
+     "to walk"
+    ],
+    "correct": "to come"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "行",
+    "question": "to go",
+    "choices": [
+     "引",
+     "切",
+     "行",
+     "売"
+    ],
+    "correct": "行"
+   },
+   {
+    "direction": "k2e",
+    "kanji": "通",
+    "question": "通",
+    "choices": [
+     "to pass through",
+     "to think / feel",
+     "to come",
+     "to walk"
+    ],
+    "correct": "to pass through"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "切",
+    "question": "to cut",
+    "choices": [
+     "食",
+     "来",
+     "切",
+     "買"
+    ],
+    "correct": "切"
+   },
+   {
+    "direction": "k2e",
+    "kanji": "売",
+    "question": "売",
+    "choices": [
+     "to listen",
+     "to walk",
+     "to sell",
+     "to buy"
+    ],
+    "correct": "to sell"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "買",
+    "question": "to buy",
+    "choices": [
+     "買",
+     "聞",
+     "行",
+     "来"
+    ],
+    "correct": "買"
+   }
+  ],
+  "G2_Town": [
+   {
+    "direction": "k2e",
+    "kanji": "道",
+    "question": "道",
+    "choices": [
+     "temple",
+     "place",
+     "near",
+     "road / path"
+    ],
+    "correct": "road / path"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "門",
+    "question": "gate",
+    "choices": [
+     "場",
+     "南",
+     "組",
+     "門"
+    ],
+    "correct": "門"
+   },
+   {
+    "direction": "k2e",
+    "kanji": "戸",
+    "question": "戸",
+    "choices": [
+     "temple",
+     "door / entrance",
+     "stand / platform",
+     "south"
+    ],
+    "correct": "door / entrance"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "室",
+    "question": "room",
+    "choices": [
+     "場",
+     "工",
+     "室",
+     "園"
+    ],
+    "correct": "室"
+   },
+   {
+    "direction": "k2e",
+    "kanji": "店",
+    "question": "店",
+    "choices": [
+     "shop",
+     "ship / boat",
+     "outside",
+     "inside / within"
+    ],
+    "correct": "shop"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "場",
+    "question": "place",
+    "choices": [
+     "室",
+     "場",
+     "汽",
+     "船"
+    ],
+    "correct": "場"
+   },
+   {
+    "direction": "k2e",
+    "kanji": "園",
+    "question": "園",
+    "choices": [
+     "temple",
+     "steam / vapor",
+     "stand / platform",
+     "garden / park"
+    ],
+    "correct": "garden / park"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "遠",
+    "question": "far",
+    "choices": [
+     "船",
+     "道",
+     "遠",
+     "内"
+    ],
+    "correct": "遠"
+   },
+   {
+    "direction": "k2e",
+    "kanji": "近",
+    "question": "近",
+    "choices": [
+     "far",
+     "near",
+     "inside / within",
+     "garden / park"
+    ],
+    "correct": "near"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "南",
+    "question": "south",
+    "choices": [
+     "場",
+     "南",
+     "内",
+     "店"
+    ],
+    "correct": "南"
+   }
+  ],
+  "G2_Time": [
+   {
+    "direction": "k2e",
+    "kanji": "曜",
+    "question": "曜",
+    "choices": [
+     "before / in front",
+     "time / hour",
+     "day of the week",
+     "every"
+    ],
+    "correct": "day of the week"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "朝",
+    "question": "morning",
+    "choices": [
+     "当",
+     "午",
+     "前",
+     "朝"
+    ],
+    "correct": "朝"
+   },
+   {
+    "direction": "k2e",
+    "kanji": "昼",
+    "question": "昼",
+    "choices": [
+     "daytime / noon",
+     "morning",
+     "now / today",
+     "between / duration"
+    ],
+    "correct": "daytime / noon"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "夜",
+    "question": "night",
+    "choices": [
+     "間",
+     "朝",
+     "夜",
+     "昼"
+    ],
+    "correct": "夜"
+   },
+   {
+    "direction": "k2e",
+    "kanji": "今",
+    "question": "今",
+    "choices": [
+     "now / today",
+     "noon",
+     "every",
+     "this / to hit"
+    ],
+    "correct": "now / today"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "午",
+    "question": "noon",
+    "choices": [
+     "朝",
+     "午",
+     "刀",
+     "時"
+    ],
+    "correct": "午"
+   },
+   {
+    "direction": "k2e",
+    "kanji": "後",
+    "question": "後",
+    "choices": [
+     "day of the week",
+     "morning",
+     "after / behind",
+     "daytime / noon"
+    ],
+    "correct": "after / behind"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "前",
+    "question": "before / in front",
+    "choices": [
+     "前",
+     "昼",
+     "後",
+     "今"
+    ],
+    "correct": "前"
+   },
+   {
+    "direction": "k2e",
+    "kanji": "時",
+    "question": "時",
+    "choices": [
+     "night",
+     "every",
+     "time / hour",
+     "daytime / noon"
+    ],
+    "correct": "time / hour"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "間",
+    "question": "between / duration",
+    "choices": [
+     "前",
+     "時",
+     "毎",
+     "間"
+    ],
+    "correct": "間"
+   }
+  ],
+  "G2_Colors": [
+   {
+    "direction": "k2e",
+    "kanji": "黄",
+    "question": "黄",
+    "choices": [
+     "bright / clear",
+     "shape",
+     "corner / angle",
+     "yellow"
+    ],
+    "correct": "yellow"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "黒",
+    "question": "black",
+    "choices": [
+     "同",
+     "黒",
+     "細",
+     "合"
+    ],
+    "correct": "黒"
+   },
+   {
+    "direction": "k2e",
+    "kanji": "色",
+    "question": "色",
+    "choices": [
+     "black",
+     "same",
+     "shape",
+     "color"
+    ],
+    "correct": "color"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "茶",
+    "question": "tea / brown",
+    "choices": [
+     "茶",
+     "形",
+     "合",
+     "直"
+    ],
+    "correct": "茶"
+   },
+   {
+    "direction": "k2e",
+    "kanji": "形",
+    "question": "形",
+    "choices": [
+     "origin / source",
+     "shape",
+     "round / circle",
+     "long / leader"
+    ],
+    "correct": "shape"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "丸",
+    "question": "round / circle",
+    "choices": [
+     "直",
+     "古",
+     "茶",
+     "丸"
+    ],
+    "correct": "丸"
+   },
+   {
+    "direction": "k2e",
+    "kanji": "角",
+    "question": "角",
+    "choices": [
+     "corner / angle",
+     "shape",
+     "wide",
+     "old"
+    ],
+    "correct": "corner / angle"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "直",
+    "question": "straight / honest",
+    "choices": [
+     "直",
+     "元",
+     "丸",
+     "古"
+    ],
+    "correct": "直"
+   },
+   {
+    "direction": "k2e",
+    "kanji": "明",
+    "question": "明",
+    "choices": [
+     "shape",
+     "same",
+     "straight / honest",
+     "bright / clear"
+    ],
+    "correct": "bright / clear"
+   },
+   {
+    "direction": "e2k",
+    "kanji": "広",
+    "question": "wide",
+    "choices": [
+     "高",
+     "広",
+     "茶",
+     "角"
+    ],
+    "correct": "広"
+   }
+  ]
+ }
+}
